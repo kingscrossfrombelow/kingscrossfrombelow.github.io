@@ -58,7 +58,7 @@ bottom_nav:
 - label: Book
   url: /book.html
 - label: GitHub
-  url: https://github.com/kingscrossfrombelow/kingscrossfrombelow.github.io
+  url: https://github.com/kingscrossfrombelow/kingscrossfrombelow.github.io/edit/master/
 - label: Privacy
   url: /privacy.html
 
