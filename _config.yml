@@ -1,11 +1,11 @@
 remote_theme: jasongrimes/jekyll-chapterbook
 
-title: Kings Cross From Below
-longtitle: Kings Cross From Below - Online book publication
-author: ME
+title: King's Cross From Below
+longtitle: King's Cross From Below - Online book publication
+author: MEdwards and JKatz
 email: email@email.com
 description: >
-  The online publication of the book Kings Cross From Below.
+  The online publication of the book King's Cross From Below.
 
 # If baseurl_canonical is set, 
 # a <link rel="canonical"> tag will be added to the head of each page,
@@ -18,7 +18,7 @@ baseurl_canonical: https://kingscrossfrombelow.github.io
 # Set a start_year to have the copyright render as "start_year - current_year" (if the years are different)
 # Set copyright: false to disable.
 copyright:
-  start_year: 2023
+  start_year: 2025
   url: /book.html
 
 # Customize the link favicon in header. Will be {{site.baseurl}}/{{site.favicon_path}}
@@ -39,7 +39,7 @@ bookcrumbs:
 # Links shown above the TOC in the sidebar
 # All "url" variables should have a leading slash.
 sidebar_nav_top:
-- label: Kings Cross From Below
+- label: King's Cross From Below
   url: /index.html
 
 # Links shown below the TOC in the sidebar
@@ -53,12 +53,8 @@ sidebar_nav_bottom:
 # Navigation shown at the bottom of the page
 # All "url" variables should have a leading slash.
 bottom_nav:
-- label: Home
-  url: /index.html
-- label: Book
-  url: /book.html
-- label: GitHub
-  url: https://github.com/kingscrossfrombelow/kingscrossfrombelow.github.io/edit/master/
+- label: Order the Book
+  url: https://uclpress.co.uk/
 - label: Privacy
   url: /privacy.html
 
