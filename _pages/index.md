@@ -14,6 +14,8 @@ There is also a separate page which is a cumulative log or scrapbook, at https:/
 Each heading, clicked, leads to a page of extra material and updates from that author. Comments are open so authors or others can add material or links.
 Elements re-numbered from (old) 10 onwards.
 
+[Documents/Edwards-1995-Agents-and-Functions-in-Urban-Development-Frameworks-for-Analysis.pdf](Documents/Edwards-1995-Agents-and-Functions-in-Urban-Development-Frameworks-for-Analysis.pdf)
+
 0 [Introduction](https://github.com/kingscrossfrombelow/kingscrossfrombelow.github.io/blob/master/_chapters/Introduction)
 
 0.5 contributor biographies
