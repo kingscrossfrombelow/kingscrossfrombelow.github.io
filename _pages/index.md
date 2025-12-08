@@ -5,11 +5,8 @@ subtitle: website guidelines
 ---
 This site supports the book King’s Cross from below edited by Michael Edwards and Jason Katz. The book is to be published by UCL Press as a printed volume and as a free PDF. [link] Once we have a copy of the PDF here the search above should search in that as well as the web site.
 
-This web site is published by Michael Edwards and Jason Katz and its functions are to
-
-link to supplementary materials (longer and related texts, photographs) relevant to the chapters of the book but not available elsewhere;
-host some documents which do not otherwise have an online presence.
-This site will be public when the book is published. Until then it is accessible only to contributors.
+This web site is published by Michael Edwards and Jason Katz and its functions are to link to supplementary materials (longer and related texts, photographs) relevant to the chapters of the book but not available elsewhere;
+host some documents which do not otherwise have an online presence. This site will be public when the book is published. Until then it is accessible only to contributors.
 
 This page lists the contents of the book and has links to material for each chapter
 There is also a separate page which is a cumulative log or scrapbook, at https://kingscrossfrombelow.wordpress.com/log-scrapbook/
