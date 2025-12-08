@@ -3,6 +3,12 @@ layout: home
 title: King's Cross from below
 subtitle: website guidelines
 ---
+
+[Edwards - 1995 - Agents and Functions in Urban Development Frameworks for Analysis.pdf](https://github.com/user-attachments/files/24030184/Edwards.-.1995.-.Agents.and.Functions.in.Urban.Development.Frameworks.for.Analysis.pdf)
+
+ 
+
+
 This site supports the book King’s Cross from below edited by Michael Edwards and Jason Katz. The book is to be published by UCL Press as a printed volume and as a free PDF. [link] Once we have a copy of the PDF here the search above should search in that as well as the web site.
 
 This web site is published by Michael Edwards and Jason Katz and its functions are to
