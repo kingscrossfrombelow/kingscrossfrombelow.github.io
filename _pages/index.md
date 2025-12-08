@@ -16,7 +16,7 @@ Elements re-numbered from (old) 10 onwards.
 
 [Documents/Edwards-1995-Agents-and-Functions-in-Urban-Development-Frameworks-for-Analysis.pdf](Documents/Edwards-1995-Agents-and-Functions-in-Urban-Development-Frameworks-for-Analysis.pdf)
 
-0 [Introduction](https://github.com/kingscrossfrombelow/kingscrossfrombelow.github.io/tree/master/_chapters)
+0 [Introduction](https://kingscrossfrombelow.github.io/030-introduction.html)
 
 0.5 contributor biographies
 
