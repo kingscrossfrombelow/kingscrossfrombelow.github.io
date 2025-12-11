@@ -616,3 +616,131 @@ table.inspect-chapter-iterate-vars th.divider {
 .heading-part {
     text-transform: uppercase;
 }
+
+/* Details - everything below styles the drop down snippet at the top of every page */
+
+details {
+  margin-bottom: 20px;
+  border-radius: 6px;
+  box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+}
+
+summary {
+  list-style: none;
+  padding: 15px 20px;
+  font-weight: bold;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+summary::-webkit-details-marker {
+  display: none;
+}
+
+details[open] summary {
+  border-bottom: 3px solid white;
+}
+
+p {
+  padding: 5px 20px 15px;
+}
+
+/* Style One */
+
+details.style-1 {
+  background-color: #A6AEBF;
+}
+
+.style-1 summary {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.style-1 summary::after {
+  content: '';
+  width: 0; 
+  height: 0; 
+  border-top: 10px solid;
+  border-inline: 6px solid transparent;
+  transition: 0.3s;
+}
+
+details[open].style-1 summary::after {
+  transform: rotate(-180deg);
+}
+
+/* Style Two */
+
+details.style-2 {
+  background-color: #C5D3E8;
+}
+
+.style-2 summary {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.style-2 summary::after {
+  content: '';
+  border: solid;
+  border-width: 0 3px 3px 0;
+  display: inline-block;
+  padding: 4px;
+  transition: 0.3s;
+  transform: rotate(45deg);
+}
+
+details[open].style-2 > summary::after {
+  transform: rotate(-135deg);
+}
+
+/* Style Three */
+
+details.style-3 {
+  background-color: #D0E8C5;
+}
+
+.style-3 summary {
+  position: relative;
+}
+
+.style-3 summary::before, .style-3 summary::after {
+  content: "";
+  position: absolute;
+  border-top: 3px solid;
+  width: 16px;
+  height: 0;
+  right: 20px;
+  top: 50%;
+}
+
+.style-3 summary::after {
+  transform: rotate(90deg);
+}
+
+details[open].style-3 summary::after {
+  display: none;
+}
+
+/* Style Four */
+
+details.style-4 {
+  display: inline-block;
+}
+
+.style-4 summary {
+  display: inline-flex;
+  background-color: #FFF8DE;
+}
+
+details[open].style-4 summary {
+  border-radius: 6px 6px 0 0;
+}
+
+.style-4 p {
+  border-radius: 0 6px 6px 6px;
+  background-color: #FFF8DE;
+  margin: 0;
+}
