@@ -744,3 +744,13 @@ details[open].style-4 summary {
   background-color: #FFF8DE;
   margin: 0;
 }
+
+/* Outline button for the edit this page on github link */
+.outline-button {
+            padding: 10px 20px;
+            border: 2px solid #A6AEBF;
+            color: #A6AEBF;
+            text-decoration: none;
+            display: inline-block;
+            border-radius: 5px;
+}
