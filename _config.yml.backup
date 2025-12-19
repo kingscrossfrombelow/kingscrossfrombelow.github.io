@@ -1,4 +1,22 @@
-remote_theme: jasongrimes/jekyll-chapterbook
+sidebar_nav_top:
+- label: King's Cross from below
+  url: /index.html
+- label: Home
+  url: /index.html
+- label: Introduction
+  url: /030-introduction.html
+- label: Part 1: Regime Change 1970s-1992
+  url: /part1.html
+- label: Part 2: Tectonic Shifts 1992-2000
+  url: /part2.html
+- label: Part 3: Victory of the new economy 2000-2010
+  url: /part3.html
+- label: Contributors
+  url: /contributors.html
+
+# Links shown below the TOC in the sidebar
+# All "url" variables should have a leading slash.
+sidebar_nav_bottom:remote_theme: jasongrimes/jekyll-chapterbook
 
 title: King's Cross From Below
 longtitle: King's Cross From Below - Online book publication
@@ -39,24 +57,16 @@ bookcrumbs:
 # Links shown above the TOC in the sidebar
 # All "url" variables should have a leading slash.
 sidebar_nav_top:
-- label: King's Cross from below
+- label: King's Cross From Below
   url: /index.html
-- label: Home
-  url: /index.html
-- label: Introduction
-  url: /030-introduction.html
-- label: Part 1: Regime Change 1970s-1992
-  url: /part1.html
-- label: Part 2: Tectonic Shifts 1992-2000
-  url: /part2.html
-- label: Part 3: Victory of the new economy 2000-2010
-  url: /part3.html
-- label: Contributors
-  url: /contributors.html
 
 # Links shown below the TOC in the sidebar
 # All "url" variables should have a leading slash.
 sidebar_nav_bottom:
+- label: Draft outline
+  url: /outline.html
+- label: Fork at GitHub
+  url: https://github.com/jasongrimes/jekyll-chapterbook/fork
 
 # Navigation shown at the bottom of the page
 # All "url" variables should have a leading slash.
@@ -100,6 +110,10 @@ extra_css:
 # set show_drafts_in_dev to true.
 show_drafts_in_dev: false
 
+
+
+
+
 exclude:
   - _drafts
   - tmp
@@ -111,7 +125,9 @@ incremental: false
 regenerate: true
 
 plugins:
+#  - jekyll-feed
   - jekyll-readme-index
+#  - jemoji
 
 collections:
   chapters:
