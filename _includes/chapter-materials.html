@@ -1,0 +1,63 @@
+{% assign chapter_materials = site.materials | where_exp: "item", "item.chapters contains page.slug" %}
+
+{% assign docs = chapter_materials | where: "type", "document" %}
+{% assign photos = chapter_materials | where: "type", "photo" %}
+{% assign maps = chapter_materials | where: "type", "map" %}
+{% assign tables = chapter_materials | where: "type", "table" %}
+{% assign quotes = chapter_materials | where: "type", "quote" %}
+
+{% if docs.size > 0 %}
+## Documents
+
+{% for doc in docs %}
+- **[{{ doc.id }}: {{ doc.title }}]({{ doc.url }})**  
+  {{ doc.caption }}  
+  *{{ doc.copyright }}*{% if doc.archive %} — {{ doc.archive }}{% endif %}
+{% endfor %}
+{% endif %}
+
+{% if photos.size > 0 %}
+## Photographs
+
+<div class="photo-grid">
+{% for photo in photos %}
+<figure>
+  <a href="{{ photo.url }}">
+    <img src="{{ photo.file }}" alt="{{ photo.alt }}" loading="lazy" />
+  </a>
+  <figcaption><strong>{{ photo.id }}</strong>: {{ photo.caption }}<br/>
+  <small>{{ photo.copyright }}{% if photo.archive %} — {{ photo.archive }}{% endif %}</small></figcaption>
+</figure>
+{% endfor %}
+</div>
+{% endif %}
+
+{% if maps.size > 0 %}
+## Maps
+
+{% for map in maps %}
+- **[{{ map.id }}: {{ map.title }}]({{ map.url }})**  
+  {{ map.caption }}  
+  *{{ map.copyright }}*{% if map.archive %} — {{ map.archive }}{% endif %}
+{% endfor %}
+{% endif %}
+
+{% if tables.size > 0 %}
+## Tables
+
+{% for table in tables %}
+- **[{{ table.id }}: {{ table.title }}]({{ table.url }})**  
+  {{ table.caption }}  
+  *{{ table.copyright }}*{% if table.archive %} — {{ table.archive }}{% endif %}
+{% endfor %}
+{% endif %}
+
+{% if quotes.size > 0 %}
+## Quoted extracts
+
+{% for quote in quotes %}
+- **[{{ quote.id }}: {{ quote.title }}]({{ quote.url }})**  
+  {{ quote.caption }}  
+  *{{ quote.copyright }}*{% if quote.archive %} — {{ quote.archive }}{% endif %}
+{% endfor %}
+{% endif %}
