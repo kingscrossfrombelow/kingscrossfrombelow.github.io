@@ -5,11 +5,8 @@ subtitle: website guidelines
 ---
 This site supports the book King’s Cross from below edited by Michael Edwards and Jason Katz. The book is to be published by UCL Press as a printed volume and as a free PDF. [link] Once we have a copy of the PDF here the search above should search in that as well as the web site.
 
-This web site is published by Michael Edwards and Jason Katz and its functions are to
-
-link to supplementary materials (longer and related texts, photographs) relevant to the chapters of the book but not available elsewhere;
-host some documents which do not otherwise have an online presence.
-This site will be public when the book is published. Until then it is accessible only to contributors.
+This web site is published by Michael Edwards and Jason Katz and its functions are to link to supplementary materials (longer and related texts, photographs) relevant to the chapters of the book but not available elsewhere;
+host some documents which do not otherwise have an online presence. This site will be public when the book is published. Until then it is accessible only to contributors.
 
 This page lists the contents of the book and has links to material for each chapter
 There is also a separate page which is a cumulative log or scrapbook, at https://kingscrossfrombelow.wordpress.com/log-scrapbook/
@@ -17,7 +14,9 @@ There is also a separate page which is a cumulative log or scrapbook, at https:/
 Each heading, clicked, leads to a page of extra material and updates from that author. Comments are open so authors or others can add material or links.
 Elements re-numbered from (old) 10 onwards.
 
-0 [Introduction](https://github.com/kingscrossfrombelow/kingscrossfrombelow.github.io/blob/master/_chapters/Introduction)
+[Documents/Edwards-1995-Agents-and-Functions-in-Urban-Development-Frameworks-for-Analysis.pdf](Documents/Edwards-1995-Agents-and-Functions-in-Urban-Development-Frameworks-for-Analysis.pdf)
+
+0 [Introduction](https://kingscrossfrombelow.github.io/030-introduction.html)
 
 0.5 contributor biographies
 
