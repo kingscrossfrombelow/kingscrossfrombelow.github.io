@@ -4,18 +4,37 @@ title: King's Cross from below
 subtitle: website guidelines
 slug: index
 ---
-This site supports the book King’s Cross from below edited by Michael Edwards and Jason Katz. The book is to be published by UCL Press as a printed volume and as a free PDF. [link] Once we have a copy of the PDF here the search above should search in that as well as the web site.
 
-This web site is published by Michael Edwards and Jason Katz and its functions are to link to supplementary materials (longer and related texts, photographs) relevant to the chapters of the book but not available elsewhere;
-host some documents which do not otherwise have an online presence. This site will be public when the book is published. Until then it is accessible only to contributors.
+## About This Site
 
-This page lists the contents of the book and has links to material for each chapter
-There is also a separate page which is a cumulative log or scrapbook, at https://kingscrossfrombelow.wordpress.com/log-scrapbook/
+This site supports the book *King's Cross from Below*, edited by Michael Edwards and Jason Katz. The book is published by UCL Press as a printed volume and as a free PDF. [Order or download the book](https://uclpress.co.uk/)
 
-Each heading, clicked, leads to a page of extra material and updates from that author. Comments are open so authors or others can add material or links.
-Elements re-numbered from (old) 10 onwards.
+This website is published by Michael Edwards and Jason Katz. It serves as the book's living substrate—a space where documented encounters continue to accrete and respond. Each contribution has a permanent URL for citation. The site will be preserved as part of the British Library's digital archive.
 
-[Documents/Edwards-1995-Agents-and-Functions-in-Urban-Development-Frameworks-for-Analysis.pdf](Documents/Edwards-1995-Agents-and-Functions-in-Urban-Development-Frameworks-for-Analysis.pdf)
+
+## Structure
+
+Each chapter has its own page. Click a chapter title to access:
+- The chapter text
+- Related materials (photographs, documents, maps, quoted extracts)
+- Links and discussion sections for updates and additions
+
+Materials are organised in a [separate archive](materials.html) and linked to the chapters that reference them. A single photograph or document can appear across multiple chapters.
+
+## For Contributors
+
+Each page has an "Edit on GitHub" link at the top. Click to propose changes directly—this works from mobile.
+
+To add materials or updates:
+1. Click "Edit on GitHub" on the relevant chapter page
+2. Add your content or links under the appropriate heading
+3. Commit your changes—the site rebuilds automatically
+
+For questions about contributing, contact the editors.
+
+## Technical Notes
+
+This site is built on [Jekyll Chapterbook](https://github.com/jasongrimes/jekyll-chapterbook), extended with a materials archive. It runs on GitHub Pages without plugins, ensuring long-term stability and portability. The full source is version-controlled and forkable.
 
 0 [Introduction](https://kingscrossfrombelow.github.io/030-introduction.html)
 
