@@ -168,8 +168,7 @@ The `chapters` field accepts a list of chapter slugs. A material can appear in m
 ```yaml
 chapters:
   - introduction
-  - regime-change
-  - tectonic-shifts
+  - **ADD OTHER CHAPTERS AS EXAMPLE**
 ```
 
 ### Displaying materials in chapters
