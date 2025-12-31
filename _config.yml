@@ -120,7 +120,6 @@ collections:
     output: true
     permalink: /materials/:name/
 
-
 defaults:
   -
     scope:
@@ -129,6 +128,12 @@ defaults:
     values:
       layout: "chapter"
       permalink: /:slug:output_ext
+  -
+    scope:
+      path: ""
+      type: "materials"
+    values:
+      layout: "material"
 
 # Markdown render engine.
 markdown:         kramdown
@@ -143,10 +148,3 @@ kramdown:
     guess_lang:           true
 syntax_highlighter_style: colorful
 markdown_ext:     markdown,mkdown,mkdn,mkd,md
-
-defaults:
-  - scope:
-      path: ""
-      type: "materials"
-    values:
-      layout: "material"
