@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+<article class="material">
+  <h1>{{ page.id }}: {{ page.title }}</h1>
+  
+  {% if page.type == "photo" %}
+  <figure>
+    <img src="{{ page.file }}" alt="{{ page.alt }}" />
+  </figure>
+  {% endif %}
+  
+  <p>{{ page.caption }}</p>
+  <p><em>{{ page.copyright }}{% if page.archive %} — {{ page.archive }}{% endif %}</em></p>
+  
+  <h2>Referenced in</h2>
+  <ul>
+  {% for chapter_slug in page.chapters %}
+    {% include chapter-link.html slug=chapter_slug %}
+  {% endfor %}
+  </ul>
+  
+  {{ content }}
+</article>
