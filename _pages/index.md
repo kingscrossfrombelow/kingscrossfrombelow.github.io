@@ -32,84 +32,45 @@ To add materials or updates:
 
 For questions about contributing, contact the editors.
 
-## Technical Notes
-
-This site is built on [Jekyll Chapterbook](https://github.com/jasongrimes/jekyll-chapterbook), extended with a materials archive. It runs on GitHub Pages without plugins, ensuring long-term stability and portability. The full source is version-controlled and forkable.
-
-0 [Introduction](https://kingscrossfrombelow.github.io/030-introduction.html)
-
-0.5 contributor biographies
-
+## Front Matter
+0. Introduction
+0.5 Contributor Biographies
 0.6 Acknowledgements
-
-1, Decline and fall of welfare capitalism Bill Risebero
-
-1a, KX Exchange David Pike
-
-2, The rise and fall of London Regeneration Michael Edwards
-
-3, Planning challenges: the community alternatives of the 1990s Michael Parkes
-
-4, Community networks and SRBs Marian Larragy
-
-4a Camden Central Community Umbrella, Fran Heron
-
-4b I worked in the Women’s Resettlement Unit, Mary Swift
-
-4c Somers Work shop, Gwendolyn White
-
-On-site and nearby communities:
-
-5 Stanley and Culross: by various people
-
-5a, Growing a community garden by Annika Miller Jones
-
-5b, 5 Cally. Road, Albert Beale
-
-5c, The Battlebridge Centre by Julie Lowe
-
-5d The People’s Museum in Somers Town Diana Foster
-
-5e Una Sapietis
-
-5f Jackie Power
-
-5G Culross: a life in short license Jane Swan
-
-6, KX Railway #1 Bill Randal Keynes
-
-6a Jeannie Burnett on Regent Quarter
-
-6b Malcolm Tucker
-
-7, Cally Rail Group Diana Shelley
-
-7a, Cally traders Vijya Patel and Rachel Jones
-
-8, The Scala Jane Giles
-
-8a, The Bell
-
-9 Here we go again: building consent for a new scheme, Michael Edwards including Jeannie Burnett on conservation groups.
-
-10 Public participation and the Railway Lands: an introduction and an invitation, John Mason
-
-11 Community in the final crunch, Richard Lee
-
-12  The King’s Cross Development Forum 2002-2023, Robert Milne
-
-12a Forming a neighbourhood forum for King’s Cross, Zannthie Bennett
-
-12b Living and working in King’s Cross, Jasmine King
-
-12c Living in Saxon Court, Ben Williams
-
-13 Contributors’ Dialogue
-
-14 Editors’ Dialogue
-
-Afterwords:
-
-15 Esther Leslie, London
-
-16 Richard Wolff, Zürich
+## Part 1: Regime Change 1970s-1992
+1. Decline and Fall of Welfare Capitalism, Bill Risebero
+1A. Kings Cross Exchange, David Pike
+2. The Rise and Fall of London Regeneration, Michael Edwards
+3. Planning Challenges: The Community Alternatives of the 1990s, Michael Parkes
+4. Community Networks and Regeneration Partnerships, Marian Larragy
+4A. Camden Central Community Umbrella, Fran Heron
+4B. I Worked in the Women's Resettlement Unit, Mary Swift
+4C. Somers Workshop, Gwendolyn White
+5. The End of the Line for Stanley Buildings, various
+5A. The Calthorpe Project, Annika Miller-Jones
+5B. 5 Cally Road's Place at King's Cross, Albert Beale
+5C. Battlebridge Centre, Julie Lowe
+5D. A Space for Us, Diana Foster
+5E. King's Cross Railway Lands Group, Una Sapietis
+5F. Running the Railway Lands Group, Jackie Power
+5G. Culross: A Life in Short Licence, Jane Swan
+## Part 2: Tectonic Shifts 1992-2000
+6. KX Railway Lands Group, Bill Randal Keynes
+6A. Regent Quarter, Jeannie Burnett
+6B. Malcolm Tucker
+7. Cally Rail Group, Diana Shelley
+7A. Cally Traders, Vijya Patel and Rachel Jones
+8. The Scala, Jane Giles
+8A. The Bell
+## Part 3: Victory of the New Economy 2000-2010
+9. Here We Go Again: Building Consent for a New Scheme, Michael Edwards
+10. Public Participation and the Railway Lands, John Mason
+11. Community in the Final Crunch, Richard Lee
+12. The King's Cross Development Forum 2002-2023, Robert Milne
+12A. Forming a Neighbourhood Forum for King's Cross, Zannthie Bennett
+12B. Living and Working in King's Cross, Jasmine King
+12C. Living in Saxon Court, Ben Williams
+## Back Matter
+13. Contributors' Dialogue
+14. Editors' Dialogue
+15. Afterword, Esther Leslie (London)
+16. Afterword, Richard Wolff (Zürich)
