@@ -1,8 +1,304 @@
+# King's Cross from Below
+
+An open-access book tracing four decades of community action around the redevelopment of King's Cross in London.
+
+**Live site:** [kingscrossfrombelow.github.io](https://kingscrossfrombelow.github.io)
+
+## About the Book
+
+Drawn from a neighbourhood of sixty thousand, thirty-six accounts trace what becomes knowable only through ongoing inhabitation of a place—forms of understanding that technocratic planning, proceeding by consultation and imposed design, structurally cannot reach.
+
+## About This Site
+
+This website is the book's living substrate: a space where the documented encounters continue to accrete and respond. It is edited by Michael Edwards and Jason Katz and will be held within the British Library's digital archive.
+
+Each contribution has a permanent URL for citation. The site is built on version-controlled, forkable infrastructure—designed for ongoing annotation rather than static preservation. This is a living planning resource.
+
+---
+
+## Site Structure
+
+```
+├── _chapters/           ← Book chapters organised by part
+│   ├── 000-front/       ← Front matter (introduction, contents)
+│   ├── 010-part1/       ← Part 1: Regime Change 1970s-1992
+│   ├── 020-part2/       ← Part 2: Tectonic Shifts 1992-2000
+│   ├── 030-part3/       ← Part 3: Victory of the New Economy 2000-2010
+│   └── 999-back/        ← Back matter (contributors, references)
+├── _materials/          ← Primary sources: photos, documents, maps
+├── _pages/              ← Standalone pages (home, materials index)
+├── _includes/           ← Reusable components
+├── _layouts/            ← Page templates
+├── assets/              ← Images, CSS, and other files
+│   └── materials/       ← Material files (images, PDFs)
+└── _config.yml          ← Site configuration
+```
+
+---
+
+## Working with Chapters
+
+### File naming
+
+Chapters live in `_chapters/`. The filename determines order—the number prefix sorts them, but never appears in the book itself:
+
+```
+_chapters/
+    010-intro.md          ← appears first
+    020-thesis.md         ← appears second
+    030-conclusion.md     ← appears third
+```
+
+Use 3-digit numbers, incrementing by 10. This leaves room to insert chapters later without renaming everything.
+
+### Chapter front matter
+
+Every chapter needs this at the top:
+
+```yaml
+---
+title: Chapter Title
+subtitle: Author Name
+slug: chapter-url
+---
+```
+
+- **title**: Displayed as the chapter heading
+- **subtitle**: Author name or description (optional)
+- **slug**: Creates the URL (e.g., `slug: introduction` → `introduction.html`)
+
+The slug must be unique. Keep it short and lowercase.
+
+### Parts
+
+Chapters are grouped into parts using subfolders:
+
+```
+_chapters/
+    000-front/              ← Front matter (not numbered)
+        010-contents.md
+        020-introduction.md
+    010-part1/              ← Part 1
+        010-chapter-one.md
+        020-chapter-two.md
+    999-back/               ← Back matter (not numbered)
+        010-contributors.md
+```
+
+The special folders `000-front/` and `999-back/` hold material that sits outside the main chapter numbering.
+
+### Drafts
+
+Mark a chapter as draft by adding `.draft` to the filename:
+
+```
+010.draft-new-chapter.md
+```
+
+Drafts won't appear in the table of contents or be numbered, but they're still accessible and appear in the outline view.
+
+---
+
+## Working with Materials
+
+This site extends the base theme with a **materials archive**—a collection of primary sources (photographs, documents, maps, tables, quotes) that link to the chapters referencing them.
+
+### Creating a material
+
+Add files to `_materials/`. Each material needs front matter like this:
+
+**Photograph:**
+```yaml
+---
+type: photo
+id: fig-1-1
+title: York Way Looking North
+chapters:
+  - introduction
+  - regime-change
+caption: View from the railway bridge, 1985
+copyright: © John Smith
+archive: Camden Local Studies
+file: /assets/materials/fig-1-1-york-way.jpg
+alt: Black and white photograph of York Way
+---
+```
+
+**Document:**
+```yaml
+---
+type: document
+id: doc-1-1
+title: Camden Planning Brief 1988
+chapters:
+  - introduction
+caption: The original planning framework for King's Cross
+copyright: London Borough of Camden
+archive: Camden Archives
+---
+
+Optional longer description or transcription here...
+```
+
+**Map:**
+```yaml
+---
+type: map
+id: map-1-1
+title: Railway Lands 1990
+chapters:
+  - regime-change
+caption: Showing proposed development zones
+copyright: British Rail Property Board
+---
+```
+
+### Material types
+
+- `photo` — Photographs and images
+- `document` — Planning documents, letters, reports
+- `map` — Maps and plans
+- `table` — Data tables
+- `quote` — Quoted extracts from interviews or publications
+
+### Linking materials to chapters
+
+The `chapters` field accepts a list of chapter slugs. A material can appear in multiple chapters:
+
+```yaml
+chapters:
+  - introduction
+  - regime-change
+  - tectonic-shifts
+```
+
+### Displaying materials in chapters
+
+Add this to any chapter to show its linked materials:
+
+```liquid
+{% include chapter-materials.html %}
+```
+
+Materials are automatically grouped by type (Documents, Photographs, Maps, etc.).
+
+### Material files
+
+Store actual files (images, PDFs) in `/assets/materials/` and reference them with the `file` field:
+
+```yaml
+file: /assets/materials/fig-1-1-york-way.jpg
+```
+
+---
+
+## Working with Pages
+
+Pages outside the book structure (home, about, materials index) go in `_pages/`:
+
+```yaml
+---
+layout: page
+title: Page Title
+slug: page-url
+---
+```
+
+The home page uses `layout: home`:
+
+```yaml
 ---
 layout: home
-title: Jekyll Chapterbook Theme
-permalink: /
+title: King's Cross from Below
+subtitle: Community action and urban change
+slug: index
 ---
+```
+
+---
+
+## Navigation
+
+### Sidebar
+
+Configure sidebar links in `_config.yml`:
+
+```yaml
+sidebar_nav_top:
+- label: Home
+  url: index.html
+- label: Introduction
+  url: introduction.html
+- label: Materials
+  url: materials.html
+```
+
+### Bottom navigation
+
+```yaml
+bottom_nav:
+- label: Order the Book
+  url: https://uclpress.co.uk/
+- label: Privacy
+  url: privacy.html
+```
+
+---
+
+## Internal Links
+
+Always use the slug with `.html` extension:
+
+```markdown
+See the [introduction](introduction.html) for context.
+```
+
+For chapter links with automatic numbering:
+
+```liquid
+See {% include chapter-link.html slug="introduction" %}.
+```
+
+---
+
+## Editing
+
+Every page has an "Edit on GitHub" link. Click to propose changes directly—this works from mobile.
+
+**To add content:**
+
+1. Create a `.md` file in the appropriate folder
+2. Add front matter between `---` marks
+3. Write content below
+4. Commit—the site rebuilds automatically
+
+**To edit existing content:**
+
+1. Click "Edit on GitHub" on any page
+2. Make changes
+3. Commit—the site rebuilds automatically
+
+---
+
+## Technical Notes
+
+This site uses [Jekyll Chapterbook](https://github.com/jasongrimes/jekyll-chapterbook), extended with a materials archive system. It runs on GitHub Pages without plugins, ensuring long-term stability.
+
+**Key configuration** lives in `_config.yml`. Avoid duplicate keys—YAML overwrites earlier definitions if a key appears twice.
+
+**Permalinks** are flat by design. All pages generate at the root (`/introduction.html`, not `/chapters/introduction.html`). This allows reorganisation without breaking links.
+
+---
+
+## License
+
+Book content © 2026 Michael Edwards, Jason Katz, and contributors.
+
+Site code adapted from [Jekyll Chapterbook](https://github.com/jasongrimes/jekyll-chapterbook) by Jason Grimes, licensed under [Apache License 2.0](LICENSE). 
+
+**See Below**
+
+**Jekyll Chapterbook structure**
 
 This is a [Jekyll](https://jekyllrb.com/) theme based on [GitBook](https://www.gitbook.com/) that adds support for easily organizing pages into book chapters and parts.
 It doesn't rely on any plugins,
