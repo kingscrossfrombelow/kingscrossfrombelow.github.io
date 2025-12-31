@@ -2,7 +2,7 @@
 layout: home
 title: King's Cross from below
 subtitle: website guidelines
-slug: https://kingscrossfrombelow.github.io/index.html
+slug: index
 ---
 This site supports the book King’s Cross from below edited by Michael Edwards and Jason Katz. The book is to be published by UCL Press as a printed volume and as a free PDF. [link] Once we have a copy of the PDF here the search above should search in that as well as the web site.
 
