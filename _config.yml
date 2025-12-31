@@ -116,6 +116,9 @@ collections:
   pages:
     output: true
     permalink: /:slug:output_ext
+  materials:
+    output: true
+    permalink: /materials/:name/
 
 
 defaults:
@@ -140,11 +143,6 @@ kramdown:
     guess_lang:           true
 syntax_highlighter_style: colorful
 markdown_ext:     markdown,mkdown,mkdn,mkd,md
-
-collections:
-  materials:
-    output: true
-    permalink: /materials/:name/
 
 defaults:
   - scope:
