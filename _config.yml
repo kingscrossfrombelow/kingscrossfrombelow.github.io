@@ -110,9 +110,6 @@ destination: ./_site
 incremental: false
 regenerate: true
 
-plugins:
-  - jekyll-readme-index
-
 collections:
   chapters:
     output: true
