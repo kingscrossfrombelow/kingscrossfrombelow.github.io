@@ -34,7 +34,7 @@ For questions about contributing, contact the editors.
 
 ## Front Matter
 
-0. Introduction(https://kingscrossfrombelow.github.io/introduction.html)
+0. Introduction (https://kingscrossfrombelow.github.io/introduction.html)
 
 0.5 Contributor Biographies
 
