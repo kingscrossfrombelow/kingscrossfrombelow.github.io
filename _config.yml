@@ -40,19 +40,19 @@ bookcrumbs:
 # All "url" variables should have a leading slash.
 sidebar_nav_top:
 - label: King's Cross from below
-  url: index.html
+  url: index.md
 - label: Home
-  url: index.html
+  url: index.md
 - label: Introduction
-  url: introduction.html
+  url: introduction.md
 - label: "Part 1: Regime Change 1970s-1992"
-  url: part1.html
+  url: part1.md
 - label: "Part 2: Tectonic Shifts 1992-2000"
-  url: part2.html
+  url: part2.md
 - label: "Part 3: Victory of the new economy 2000-2010"
   url: part3.html
 - label: Contributors
-  url: contributors.html
+  url: contributors.md
 
 # Links shown below the TOC in the sidebar
 # All "url" variables should have a leading slash.
