@@ -296,7 +296,7 @@ Book content © 2026 Michael Edwards, Jason Katz, and contributors.
 
 Site code adapted from [Jekyll Chapterbook](https://github.com/jasongrimes/jekyll-chapterbook) by Jason Grimes, licensed under [Apache License 2.0](LICENSE). 
 
-# **[Jekyll Chapterbook](https://github.com/jasongrimes/jekyll-chapterbook)**
+# [Jekyll Chapterbook](https://github.com/jasongrimes/jekyll-chapterbook)
 
 This is a [Jekyll](https://jekyllrb.com/) theme based on [GitBook](https://www.gitbook.com/) that adds support for easily organizing pages into book chapters and parts.
 It doesn't rely on any plugins,
