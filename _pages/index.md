@@ -7,21 +7,21 @@ slug: index
 
 ## About This Site
 
-This site supports the book *King's Cross from Below*, edited by Michael Edwards and Jason Katz. The book is published by UCL Press as a printed volume and as a free PDF. [Order or download the book](https://uclpress.co.uk/)
+This site supports the book *King's Cross from below*, edited by Michael Edwards and Jason Katz. The book is published by UCL Press as a printed volume and as a free PDF. [Order or download the book](https://uclpress.co.uk/)
 
-This website is published by Michael Edwards and Jason Katz. It serves as the book's living substrate—a space where documented encounters continue to accrete and respond. Each contribution has a permanent URL for citation. The site will be preserved as part of the British Library's digital archive.
+This website is published by Michael Edwards and Jason Katz. It hosts some supporting documentation which is otherwise hard to find and serves as the book's living dimension: a space where encounters continue to accrete and respond. Each section of the book has a permanent URL for citation. The site will be preserved as part of the British Library's digital archive.
 
 ## Structure
 
-Each chapter has its own page. Click a chapter title to access the chapter text, related materials (photographs, documents, maps, quoted extracts), and links and discussion sections for updates and additions.
+Each chapter or story in the book has its own page here. Click a title to access the chapter's supporting material, related items (photographs, documents, maps, quoted extracts) and links and discussion sections for updates, debates and additions.
 
-Materials are organised in a [separate archive](materials.html) and linked to the chapters that reference them. A single photograph or document can appear across multiple chapters.
+Materials are organised in a [separate archive](materials.html) and linked from the chapter-pages that reference them. A single photograph or document can appear in relation to multiple chapters.
 
 ## For Contributors
 
-Each page has an "Edit on GitHub" link at the top. Click to propose changes directly—this works from mobile.
+Each page has an "Edit on GitHub" link at the top. Click to propose changes directly on the relevant chapter page, add your content or links under the appropriate heading. This works from mobile or computer. The first time you do this you have to join github.com (free) and 'fork' the website kingscrossfrombelow which gives you a copy to work on. When you finish an edit press 'pull request' which alerts the editors to a new contribution needing approval.
 
-To add materials or updates, click "Edit on GitHub" on the relevant chapter page, add your content or links under the appropriate heading, and commit your changes. The site rebuilds automatically.
+To add materials or updates, click "Edit on GitHub" on the relevant chapter page, add your content or links under the appropriate heading, and commit your changes. The site rebuilds automatically. This could now be deleted I hope as the substance is now merged in the previous para.
 
 For questions about contributing, contact the editors.
 
@@ -38,7 +38,7 @@ For questions about contributing, contact the editors.
 1\. Decline and Fall of Welfare Capitalism, Bill Risebero  
 1A. Kings Cross Exchange, David Pike
 
-2\. The Rise and Fall of London Regeneration, Michael Edwards
+2\. The Rise and Fall of London Regeneration Consortium, Michael Edwards
 
 3\. Planning Challenges: The Community Alternatives of the 1990s, Michael Parkes
 
@@ -58,7 +58,7 @@ For questions about contributing, contact the editors.
 
 ## Part 2: Tectonic Shifts 1992-2000
 
-6\. KX Railway Lands Group, Bill Randal Keynes  
+6\. Railway threat, blight and survival Randal Keynes  
 6A. Regent Quarter, Jeannie Burnett  
 6B. Malcolm Tucker
 
@@ -66,7 +66,7 @@ For questions about contributing, contact the editors.
 7A. Cally Traders, Vijya Patel and Rachel Jones
 
 8\. The Scala, Jane Giles  
-8A. The Bell
+8A. The Bell, Roz Hopkin and Rob Pateman 
 
 ## Part 3: Victory of the New Economy 2000-2010
 
