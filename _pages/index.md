@@ -19,11 +19,11 @@ Materials are organised in a [separate archive](materials.html) and linked from 
 
 ## For Contributors
 
-Each page has an "Edit on GitHub" link at the top. Click to propose changes directly on the relevant chapter page, add your content or links under the appropriate heading. This works from mobile or computer. The first time you do this you have to join github.com (free) and 'fork' the website kingscrossfrombelow which gives you a copy to work on. When you finish an edit press 'pull request' which alerts the editors to a new contribution needing approval.
+Each page has an "Edit on GitHub" link at the top or bottom. Click to propose changes directly on the relevant chapter page, add your content or links under the appropriate heading. This works from mobile or computer. The first time you do this you have to join github.com (free) and 'fork' the website kingscrossfrombelow which gives you a copy to work on. When you finish an edit click 'pull request' which alerts the editors to a new contribution needing approval.
 
 To add materials or updates, click "Edit on GitHub" on the relevant chapter page, add your content or links under the appropriate heading, and commit your changes. The site rebuilds automatically. This could now be deleted I hope as the substance is now merged in the previous para.
 
-For questions about contributing, contact the editors.
+For questions about contributing, contact the editors.{how shall we handle this? A new email account we both share, not in UCL?)
 
 ---
 
@@ -47,8 +47,8 @@ For questions about contributing, contact the editors.
 4B. I Worked in the Women's Resettlement Unit, Mary Swift  
 4C. Somers Workshop, Gwendolyn White
 
-5\. The End of the Line for Stanley Buildings, various  
-5A. The Calthorpe Project, Annika Miller-Jones  
+5\. The End of the Line for Stanley Buildings, various authors  
+5A. The Calthorpe Project, Annika Miller Jones  
 5B. 5 Cally Road's Place at King's Cross, Albert Beale  
 5C. Battlebridge Centre, Julie Lowe  
 5D. A Space for Us, Diana Foster  
