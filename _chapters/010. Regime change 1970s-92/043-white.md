@@ -1,0 +1,16 @@
+---
+title: "4C. Somers Workshop"
+subtitle: Gwendolyn White
+slug: white
+abstract: "Story from below"
+---
+
+This page holds additional material, links, and discussion extending from this chapter.
+
+{% include chapter-materials.html %}
+
+## Linked Documents
+
+## Photo Gallery
+
+## Discussion Thread
