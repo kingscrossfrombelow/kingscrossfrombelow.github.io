@@ -35,7 +35,7 @@ For questions about contributing, contact the editors.{how shall we handle this?
 
 ## Part 1: Regime Change 1970s-1992
 
-1\. Decline and Fall of Welfare Capitalism, Bill Risebero  
+1\. [Decline and Fall of Welfare Capitalism, Bill Risebero](https://kingscrossfrombelow.github.io/risebero.html)  
 1A. Kings Cross Exchange, David Pike
 
 2\. The Rise and Fall of London Regeneration Consortium, Michael Edwards
