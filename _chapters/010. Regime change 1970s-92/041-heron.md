@@ -1,6 +1,7 @@
 ---
 title: "4A. Camden Central Community Umbrella"
 subtitle: Fran Heron
+tag: #SRB
 slug: heron
 abstract: "Story from below"
 ---
