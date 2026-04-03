@@ -1,0 +1,16 @@
+# Materials Manifest
+
+# List of materials
+- name: Example Material 1
+  description: Description for material 1
+  properties:
+    color: blue
+    density: 1.5
+
+- name: Example Material 2
+  description: Description for material 2
+  properties:
+    color: red
+    density: 2.0
+
+# Add more materials as per the data from _materials folder
