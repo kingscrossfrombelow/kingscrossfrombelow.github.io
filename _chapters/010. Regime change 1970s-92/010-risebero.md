@@ -6,9 +6,9 @@ slug: risebero
 
 This page holds additional material, links, and discussion extending from this chapter.
 
-{% include chapter-materials.html %}
-
 ## Linked Documents
+
+{% include chapter-materials.html %}
 
 ## Photo Gallery
 
