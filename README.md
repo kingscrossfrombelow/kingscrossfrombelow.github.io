@@ -101,93 +101,25 @@ Drafts won't appear in the table of contents or be numbered, but they're still a
 
 ## Working with Materials
 
-This site extends the base theme with a **materials archive**—a collection of primary sources (photographs, documents, maps, tables, quotes) that link to the chapters referencing them.
+This site extends the base theme with a **materials archive**—a collection of planning documents, intended to be available for public citation, and which link to the chapters referencing them.
 
-### Creating a material
+- **Centralized Metadata:**
+  - A manifest file named `_data/materials.yml` contains all the necessary metadata for materials.
+  - Each material entry includes:
+    - **id:** Unique identifier starting with `YYYY-`.
+    - **filename:** Name of the file as stored in the `_materials/` folder.
+    - **title:** The title of the material.
+    - **tags array:** Array of tags related to the material.
+    - **source_date:** The date when the material was sourced.
+    - **description:** A brief overview of the material.
 
-Add files to `_materials/`. Each material needs front matter like this:
+- **File Storage:**
+  - All material files are stored unchanged in the `_materials/` folder.
 
-**Photograph:**
-```yaml
----
-type: photo
-id: fig-1-1
-title: York Way Looking North
-chapters:
-  - introduction
-  - regime-change
-caption: View from the railway bridge, 1985
-copyright: © John Smith
-archive: Camden Local Studies
-file: /assets/materials/fig-1-1-york-way.jpg
-alt: Black and white photograph of York Way
----
-```
+- **Chapter Display:**
+  - Use `{% include chapter-materials.html %}` to display materials, which will auto-filter by chapter slug.
 
-**Document:**
-```yaml
----
-type: document
-id: doc-1-1
-title: Camden Planning Brief 1988
-chapters:
-  - introduction
-caption: The original planning framework for King's Cross
-copyright: London Borough of Camden
-archive: Camden Archives
----
-
-Optional longer description or transcription here...
-```
-
-**Map:**
-```yaml
----
-type: map
-id: map-1-1
-title: Railway Lands 1990
-chapters:
-  - regime-change
-caption: Showing proposed development zones
-copyright: British Rail Property Board
----
-```
-
-### Material types
-
-- `photo` — Photographs and images
-- `document` — Planning documents, letters, reports
-- `map` — Maps and plans
-- `table` — Data tables
-- `quote` — Quoted extracts from interviews or publications
-
-### Linking materials to chapters
-
-The `chapters` field accepts a list of chapter slugs. A material can appear in multiple chapters:
-
-```yaml
-chapters:
-  - introduction
-  - **ADD OTHER CHAPTERS AS EXAMPLE**
-```
-
-### Displaying materials in chapters
-
-Add this to any chapter to show its linked materials:
-
-```liquid
-{% include chapter-materials.html %}
-```
-
-Materials are automatically grouped by type (Documents, Photographs, Maps, etc.).
-
-### Material files
-
-Store actual files (images, PDFs) in `/assets/materials/` and reference them with the `file` field:
-
-```yaml
-file: /assets/materials/fig-1-1-york-way.jpg
-```
+This new system allows for better organization and easier access to material information.
 
 ---
 
