@@ -1,16 +1,264 @@
 # Materials Manifest
 
 # List of materials
-- name: Example Material 1
-  description: Description for material 1
-  properties:
-    color: blue
-    density: 1.5
+materials:
+  - id: 0000-kxrlg-timeline
+    filename: 00-KXRLG-timeline.doc
+    title: King's Cross Railway Lands Group Timeline
+    tags: []
+    source_date: null
+    description: Chronological overview of KXRLG activities and milestones
 
-- name: Example Material 2
-  description: Description for material 2
-  properties:
-    color: red
-    density: 2.0
+  - id: 0000-citizens-assemblies
+    filename: 00-Various-citizens-assemblies-juries-panels.pdf
+    title: Citizens' Assemblies, Juries and Panels - Reference Guide
+    tags: []
+    source_date: null
+    description: Overview of participatory democracy mechanisms
+
+  - id: 0000-neighbourhood-forums
+    filename: 00-Various-neighbourhood-forums-guide.pdf
+    title: Neighbourhood Forums - Reference Guide
+    tags: []
+    source_date: null
+    description: Guide to neighbourhood planning and community forums
+
+  - id: 0000-section-106
+    filename: 00-Various-section-106-agreements-guide.pdf
+    title: Section 106 Agreements - Reference Guide
+    tags: []
+    source_date: null
+    description: Overview of planning obligations and developer contributions
+
+  - id: 0000-brian-woodrow-articles
+    filename: 00-brian-woodrow-cnj-articles-full.pdf
+    title: Brian Woodrow CNJ Articles - Full Collection
+    tags: []
+    source_date: null
+    description: Articles by Brian Woodrow in Camden New Journal
+
+  - id: 0000-brian-woodrow-tributes
+    filename: 00-brian-woodrow-tributes.pdf
+    title: Tributes to Brian Woodrow
+    tags: []
+    source_date: null
+    description: Community tributes and reflections on Brian Woodrow's activism
+
+  - id: 1988-lbc-community-planning-brief
+    filename: 19881100-LBC-community-planning-brief.pdf
+    title: Camden Community Planning Brief
+    tags: []
+    source_date: 1988-11
+    description: Original planning framework for King's Cross development
+
+  - id: 1988-lbc-kx-exchange-overview
+    filename: 19881108-LBC-overview-kx-exchange.pdf
+    title: King's Cross Exchange Overview
+    tags: []
+    source_date: 1988-11-08
+    description: Council overview of King's Cross Exchange development scheme
+
+  - id: 2004-kxrlg-response-argent
+    filename: 20041008-KXRLG-response-argent-st-george.pdf
+    title: KXRLG Response to Argent & St George Proposals
+    tags: []
+    source_date: 2004-10-08
+    description: Campaign group response to early development proposals
+
+  - id: 2005-kxrlg-judicial-review
+    filename: 20050900-KXRLG-judicial-review-skeleton.pdf
+    title: Judicial Review Skeleton Argument
+    tags: []
+    source_date: 2005-09
+    description: Legal argument for judicial review of planning decision
+
+  - id: 2005-lbc-s106-variation
+    filename: 20050900-LBC-s106-variation-officers-report.pdf
+    title: Section 106 Variation - Officers' Report
+    tags: []
+    source_date: 2005-09
+    description: Council report on variation of planning obligations
+
+  - id: 2005-kxrlg-response-argent-revised
+    filename: 20051100-KXRLG-response-argent-revisions.pdf
+    title: KXRLG Response to Revised Argent Proposals
+    tags: []
+    source_date: 2005-11
+    description: Campaign group response to design revisions
+
+  - id: 2006-kxdf-response-initial-outline
+    filename: 20060000-KXDF-response-initial-outline-application-draft.pdf
+    title: King's Cross Development Forum Response - Initial Outline Application
+    tags: []
+    source_date: 2006
+    description: Community response to initial planning application
+
+  - id: 2006-kxdf-response-revised-outline
+    filename: 20060000-KXDF-response-revised-outline-application-draft.pdf
+    title: King's Cross Development Forum Response - Revised Outline Application
+    tags: []
+    source_date: 2006
+    description: Community response to revised proposals
+
+  - id: 2006-lbc-dev-control-guidance
+    filename: 20060200-LBC-guidance-development-control-procedures.pdf
+    title: Development Control Procedures - Council Guidance
+    tags: []
+    source_date: 2006-02
+    description: Official planning procedures and protocols
+
+  - id: 2006-lbc-lee-blackwell-meeting
+    filename: 20060200-LBC-lee-blackwell-councillor-meeting.pdf
+    title: Councillor Meeting Notes - Lee Blackwell
+    tags: []
+    source_date: 2006-02
+    description: Council meeting minutes regarding King's Cross proposals
+
+  - id: 2006-kxdf-campaign-coordination
+    filename: 20060206-KXDF-campaign-coordination-meeting.pdf
+    title: KXDF Campaign Coordination Meeting
+    tags: []
+    source_date: 2006-02-06
+    description: Internal coordination meeting of community campaign
+
+  - id: 2006-kxrlg-pontecorvo-lwt-camley
+    filename: 20060211-KXRLG-pontecorvo-lwt-camley-street.pdf
+    title: Pontecorvo Analysis - LWT and Camley Street
+    tags: []
+    source_date: 2006-02-11
+    description: Technical analysis of cultural venues
+
+  - id: 2006-kxrlg-lee-forum-views
+    filename: 20060227-KXRLG-lee-reporting-forum-views.pdf
+    title: Lee Councillors Forum - Reported Views
+    tags: []
+    source_date: 2006-02-27
+    description: Summary of council forum positions
+
+  - id: 2006-stinchcombe-camden-instruction
+    filename: 20060228-stinchcombe-view-on-camden-instruction.pdf
+    title: Stinchcombe Perspective on Camden Instruction
+    tags: []
+    source_date: 2006-02-28
+    description: Solicitor's analysis of council legal position
+
+  - id: 2006-ison-health-impact-assessment
+    filename: 20060300-ISON-health-impact-assessment-argent.pdf
+    title: Independent Health Impact Assessment
+    tags: []
+    source_date: 2006-03
+    description: Health assessment of proposed development on local community
+
+  - id: 2006-kxdf-gill-coordinating-email
+    filename: 20060300-KXDF-gill-coordinating-group-email.pdf
+    title: Gill - Coordinating Group Email
+    tags: []
+    source_date: 2006-03
+    description: Campaign coordination correspondence
+
+  - id: 2006-kxdf-gill-dc-letter
+    filename: 20060300-KXDF-gill-dc-committee-letter.pdf
+    title: Gill - Development Control Committee Letter
+    tags: []
+    source_date: 2006-03
+    description: Formal submission to planning committee
+
+  - id: 2006-kxdf-gill-forum-email
+    filename: 20060300-KXDF-gill-forum-coordinating-group-email.pdf
+    title: Gill - Forum Coordinating Group Email
+    tags: []
+    source_date: 2006-03
+    description: Internal forum coordination
+
+  - id: 2006-kxdf-response-initial-planning
+    filename: 20060300-KXDF-response-initial-outline-planning-application.pdf
+    title: KXDF Response - Initial Outline Planning Application
+    tags: []
+    source_date: 2006-03
+    description: Detailed community response to planning application
+
+  - id: 2006-kxdf-response-revised-planning
+    filename: 20060300-KXDF-response-revised-outline-planning-application.pdf
+    title: KXDF Response - Revised Outline Planning Application
+    tags: []
+    source_date: 2006-03
+    description: Updated community response to revised proposals
+
+  - id: 2006-kxdf-roper-dc-draft
+    filename: 20060300-KXDF-roper-dc-committee-draft-statement.pdf
+    title: Roper - DC Committee Draft Statement
+    tags: []
+    source_date: 2006-03
+    description: Draft public statement for planning committee
+
+  - id: 2006-kxdf-roper-dc-formal
+    filename: 20060300-KXDF-roper-dc-committee-forma-statement.pdf
+    title: Roper - DC Committee Formal Statement
+    tags: []
+    source_date: 2006-03
+    description: Final public statement for planning committee
+
+  - id: 2006-kxdf-roper-gill-email
+    filename: 20060300-KXDF-roper-gill-email-fragment.pdf
+    title: Roper-Gill Email Correspondence
+    tags: []
+    source_date: 2006-03
+    description: Strategic coordination between campaign leaders
+
+  - id: 2006-lbc-dc-committee-day1
+    filename: 20060308-LBC-dc-committee-transcript.doc
+    title: Development Control Committee Meeting - Day 1
+    tags: []
+    source_date: 2006-03-08
+    description: Official record of planning committee hearing
+
+  - id: 2006-lbc-dc-committee-day2
+    filename: 20060309-LBC-dc-committee-transcript.doc
+    title: Development Control Committee Meeting - Day 2
+    tags: []
+    source_date: 2006-03-09
+    description: Continuation of planning committee hearing
+
+  - id: 2006-cnj-satnam-gill-coverage
+    filename: 20061000-CNJ-satnam-gill-coverage.pdf
+    title: Camden New Journal Coverage - Satnam Gill
+    tags: []
+    source_date: 2006-10
+    description: Local newspaper coverage of campaign
+
+  - id: 2006-lbc-section-106-agreement
+    filename: 20061100-LBC-section-106-agreement.pdf
+    title: Section 106 Planning Agreement
+    tags: []
+    source_date: 2006-11
+    description: Final planning obligations agreement
+
+  - id: 2012-lbc-neighbourhood-area
+    filename: 20120100-LBC-neighbourhood-area-application.pdf
+    title: Neighbourhood Area Application
+    tags: []
+    source_date: 2012-01
+    description: Application for neighbourhood planning area designation
+
+  - id: 2012-lbc-neighbourhood-forum
+    filename: 20120100-LBC-neighbourhood-forum-application-for-designation.pdf
+    title: Neighbourhood Forum Application for Designation
+    tags: []
+    source_date: 2012-01
+    description: Application for neighbourhood forum status
+
+  - id: 2015-ucl-bishop-omega-seminar
+    filename: 20150204-UCL-bishop-omega-seminar-slides.pdf
+    title: UCL Omega Seminar - Bishop Presentation
+    tags: []
+    source_date: 2015-02-04
+    description: Academic analysis of King's Cross development and community resistance
+
+  - id: 0000-adjudication-panel-woodrow
+    filename: nd-Adjudication-Panel-report-woodrow.pdf
+    title: Adjudication Panel Report - Woodrow
+    tags: []
+    source_date: null
+    description: Official adjudication regarding planning matters
 
 # Add more materials as per the data from _materials folder
