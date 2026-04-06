@@ -1,7 +1,7 @@
 ---
 title: "12B. Living and Working in King's Cross"
 subtitle: Jasmine King
-slug:12-2-king
+slug: 12-2-king
 abstract: "Story from below"
 ---
 
