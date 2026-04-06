@@ -1,7 +1,7 @@
 ---
 title: "1A. Kings Cross Exchange: A Listening Approach to Public Consultation"
 subtitle: David Pike
-slug: pike
+slug: 1a-pike
 abstract: "Story from below"
 ---
 

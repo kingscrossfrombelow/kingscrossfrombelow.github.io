@@ -1,7 +1,7 @@
 ---
 title: "5E. King's Cross Railway Lands Group – Working for a Community Development"
 subtitle: Una Sapietis
-slug: sapietis
+slug: 5e-sapietis
 abstract: "Story from below"
 ---
 

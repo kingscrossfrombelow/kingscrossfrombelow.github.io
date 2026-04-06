@@ -1,7 +1,7 @@
 ---
 title: "5F. Running the Railway Lands Group, Battling Railways"
 subtitle: Jackie Power
-slug: power
+slug: 5f-power
 abstract: "Story from below"
 ---
 
