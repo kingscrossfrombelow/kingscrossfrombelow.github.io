@@ -1,7 +1,7 @@
 ---
 title: "6. KX Railway Lands Group"
 subtitle: Bill Randal Keynes
-slug: keynes
+slug: 6-keynes
 ---
 
 This page holds additional material, links, and discussion extending from this chapter.

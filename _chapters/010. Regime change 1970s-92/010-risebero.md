@@ -1,7 +1,7 @@
 ---
 title: "1. Decline and Fall of Welfare Capitalism: A Planning Memoir"
 subtitle: Bill Risebero
-slug: risebero
+slug: 1-risebero
 ---
 
 This page holds additional material, links, and discussion extending from this chapter.

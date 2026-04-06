@@ -1,4 +1,4 @@
-{% assign chapter_materials = site.materials | where_exp: "item", "item.chapters contains page.slug" %}
+{% assign chapter_materials = site.materials | where_exp: "item", "item.links contains page.slug" %}
 
 {% assign docs = chapter_materials | where: "type", "document" %}
 {% assign photos = chapter_materials | where: "type", "photo" %}
