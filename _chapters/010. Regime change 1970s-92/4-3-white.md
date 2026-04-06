@@ -1,7 +1,7 @@
 ---
 title: "4C. Somers Workshop"
 subtitle: Gwendolyn White
-slug: white
+slug: 4-3-white
 abstract: "Story from below"
 ---
 
