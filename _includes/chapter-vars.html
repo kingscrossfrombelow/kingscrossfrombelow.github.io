@@ -75,7 +75,9 @@
       {% assign part_label = nil %}
     {% else %}
       {% assign part_unnumbered = false %}
-      {% assign part_label = part_folder | split: "-" | shift | join: " " | capitalize %}
+      {% unless page_part_label %}
+        {% assign part_label = part_folder | split: "-" | shift | join: " " | capitalize %}
+      {% endunless %}
     {% endif %}
   {% endif %}
 
