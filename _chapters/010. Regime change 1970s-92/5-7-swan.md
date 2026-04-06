@@ -1,7 +1,7 @@
 ---
 title: "5G. Culross: A Life in Short Licence"
 subtitle: Jane Swan
-slug: swan
+slug: 5-7-swan
 abstract: "Story from below"
 ---
 
