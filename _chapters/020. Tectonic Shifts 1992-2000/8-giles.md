@@ -1,7 +1,7 @@
 ---
-title: "10. Public Participation and the Railway Lands"
-subtitle: John Mason
-slug: mason
+title: "8. The Scala"
+subtitle: Jane Giles
+slug: 8-giles
 ---
 
 This page holds additional material, links, and discussion extending from this chapter.

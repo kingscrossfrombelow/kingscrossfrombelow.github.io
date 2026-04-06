@@ -1,8 +1,7 @@
 ---
-title: "5A. The Calthorpe Project"
-subtitle: Annika Miller-Jones
-slug: miller-jones
-abstract: "Story from below"
+title: "11. Community in the Final Crunch"
+subtitle: Richard Lee
+slug: 11-lee
 ---
 
 This page holds additional material, links, and discussion extending from this chapter.

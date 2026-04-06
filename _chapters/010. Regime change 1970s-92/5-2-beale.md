@@ -1,7 +1,8 @@
 ---
-title: "12. The King's Cross Development Forum 2002-2023"
-subtitle: Robert Milne
-slug: milne
+title: "5B. 5 Cally Road's Place at King's Cross"
+subtitle: Albert Beale
+slug: 5-2-beale
+abstract: "Story from below"
 ---
 
 This page holds additional material, links, and discussion extending from this chapter.

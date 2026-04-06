@@ -1,7 +1,8 @@
 ---
-title: "6. KX Railway Lands Group"
-subtitle: Bill Randal Keynes
-slug: keynes
+title: "5D. A Space for Us: Why the Somers Town Museum Exists"
+subtitle: Diana Foster
+slug: 5-4-foster
+abstract: "Story from below"
 ---
 
 This page holds additional material, links, and discussion extending from this chapter.

@@ -1,7 +1,7 @@
 ---
-title: "4B. I Worked in the Women's Resettlement Unit"
-subtitle: Mary Swift
-slug: swift
+title: "5E. King's Cross Railway Lands Group – Working for a Community Development"
+subtitle: Una Sapietis
+slug: 5-5-sapietis
 abstract: "Story from below"
 ---
 

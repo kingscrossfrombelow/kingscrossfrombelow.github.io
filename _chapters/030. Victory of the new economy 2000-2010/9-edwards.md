@@ -1,7 +1,7 @@
 ---
-title: "5. The End of the Line for Stanley Buildings"
-subtitle: Sarah Vincent, Pauline Wetherell, Ray Yates, Christine Bowmaker and Wendy Mclean
-slug: stanley
+title: "9. Here We Go Again: Building Consent for a New Scheme"
+subtitle: Michael Edwards
+slug: 9-edwards
 ---
 
 This page holds additional material, links, and discussion extending from this chapter.

@@ -1,7 +1,7 @@
 ---
-title: "5F. Running the Railway Lands Group, Battling Railways"
-subtitle: Jackie Power
-slug: power
+title: "4C. Somers Workshop"
+subtitle: Gwendolyn White
+slug: 4-3-white
 abstract: "Story from below"
 ---
 

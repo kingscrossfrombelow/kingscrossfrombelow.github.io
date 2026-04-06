@@ -1,7 +1,8 @@
 ---
-title: "2. The Rise and Fall of London Regeneration"
-subtitle: Michael Edwards
-slug: edwards-regeneration
+title: "6A. Regent Quarter"
+subtitle: Jeannie Burnett
+slug: 6-1-burnett
+abstract: "Story from below"
 ---
 
 This page holds additional material, links, and discussion extending from this chapter.
