@@ -89,14 +89,14 @@ materials:
   - id: 2006-kxdf-response-initial-outline
     filename: 20060000-KXDF-response-initial-outline-application-draft.pdf
     title: King's Cross Development Forum Response - Initial Outline Application
-    tags: []
+    tags: [090-edwards.md]
     source_date: 2006
     description: Community response to initial planning application
 
   - id: 2006-kxdf-response-revised-outline
     filename: 20060000-KXDF-response-revised-outline-application-draft.pdf
     title: King's Cross Development Forum Response - Revised Outline Application
-    tags: []
+    tags: [090-edwards.md]
     source_date: 2006
     description: Community response to revised proposals
 
