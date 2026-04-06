@@ -1,7 +1,7 @@
 ---
 title: "5. The End of the Line for Stanley Buildings"
 subtitle: Sarah Vincent, Pauline Wetherell, Ray Yates, Christine Bowmaker and Wendy Mclean
-slug: 5-0-stanley
+slug: 5-0-stanley-buildings
 ---
 
 This page holds additional material, links, and discussion extending from this chapter.
