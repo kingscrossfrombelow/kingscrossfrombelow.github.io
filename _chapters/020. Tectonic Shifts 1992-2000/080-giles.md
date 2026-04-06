@@ -1,7 +1,7 @@
 ---
 title: "8. The Scala"
 subtitle: Jane Giles
-slug: giles
+slug: 080-giles
 ---
 
 This page holds additional material, links, and discussion extending from this chapter.

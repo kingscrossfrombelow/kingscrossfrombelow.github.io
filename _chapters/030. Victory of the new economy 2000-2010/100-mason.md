@@ -1,7 +1,7 @@
 ---
 title: "10. Public Participation and the Railway Lands"
 subtitle: John Mason
-slug: mason
+slug: 100-mason
 ---
 
 This page holds additional material, links, and discussion extending from this chapter.

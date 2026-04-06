@@ -1,7 +1,7 @@
 ---
 title: "7A. Cally Traders"
 subtitle: Vijya Patel and Rachel Jones
-slug: patel-jones
+slug: 071-patel-jones
 abstract: "Story from below"
 ---
 
