@@ -1,7 +1,7 @@
 ---
 title: "12A. Forming a Neighbourhood Forum for King's Cross"
 subtitle: Zannthie Bennett
-slug: bennett
+slug: 12-1-bennett
 abstract: "Story from below"
 ---
 
