@@ -1,7 +1,7 @@
 ---
 title: "8A. The Bell"
 subtitle: 
-slug: bell
+slug: 8-1-bell
 abstract: "Story from below"
 ---
 
