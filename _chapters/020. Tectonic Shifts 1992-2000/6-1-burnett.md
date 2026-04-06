@@ -1,7 +1,7 @@
 ---
 title: "6A. Regent Quarter"
 subtitle: Jeannie Burnett
-slug: burnett
+slug: 6-1-burnett
 abstract: "Story from below"
 ---
 
