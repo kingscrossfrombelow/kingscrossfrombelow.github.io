@@ -1,7 +1,7 @@
 ---
 title: "9. Here We Go Again: Building Consent for a New Scheme"
 subtitle: Michael Edwards
-slug: 090-edwards
+slug: 9-0-edwards
 ---
 
 This page holds additional material, links, and discussion extending from this chapter.
