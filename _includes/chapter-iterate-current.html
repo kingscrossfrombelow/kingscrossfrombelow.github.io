@@ -42,17 +42,29 @@
     {% assign i_part_index_chapter = nil %}
   {% endif %}
   {% if i_part_folder %}
-    {% assign i_part_sort_index = i_part_folder | split: "-" | first %}
-    {% if i_part_sort_index contains "." %}
-      {% assign i_part_sort_index_ext = i_part_sort_index | split: "." | last %}
-    {% else %}
+    {% comment %}
+      Part folder names may use either "NNN-part-label" or "NNN. Part Label" conventions.
+      When ". " (dot-space) is present, split on that to preserve hyphens within the label
+      (e.g. "010. Regime change 1970s-92"). Otherwise fall back to splitting on "-".
+    {% endcomment %}
+    {% if i_part_folder contains ". " %}
+      {% assign _part_folder_parts = i_part_folder | split: ". " %}
+      {% assign i_part_sort_index = _part_folder_parts | first %}
       {% assign i_part_sort_index_ext = nil %}
-    {% endif %}
-
-    {% if i_part_sort_index_ext == "draft" %}
-      {% assign i_part_is_draft = true %}
-    {% else %}
       {% assign i_part_is_draft = false %}
+    {% else %}
+      {% assign i_part_sort_index = i_part_folder | split: "-" | first %}
+      {% if i_part_sort_index contains "." %}
+        {% assign i_part_sort_index_ext = i_part_sort_index | split: "." | last %}
+      {% else %}
+        {% assign i_part_sort_index_ext = nil %}
+      {% endif %}
+
+      {% if i_part_sort_index_ext == "draft" %}
+        {% assign i_part_is_draft = true %}
+      {% else %}
+        {% assign i_part_is_draft = false %}
+      {% endif %}
     {% endif %}
 
     {% capture _part_index_path %}_chapters/{{ i_part_folder}}/000-index.md{% endcapture %}
@@ -63,7 +75,11 @@
       {% assign i_part_label = nil %}
     {% else %}
       {% assign i_part_unnumbered = false %}
-      {% assign i_part_label = i_part_folder | split: "-" | shift | join: " " | capitalize %}
+      {% if i_part_folder contains ". " %}
+        {% assign i_part_label = _part_folder_parts | shift | join: ". " %}
+      {% else %}
+        {% assign i_part_label = i_part_folder | split: "-" | shift | join: " " | capitalize %}
+      {% endif %}
     {% endif %}
 
   {% endif %}
