@@ -1,7 +1,7 @@
 ---
 title: "12C. Living in Saxon Court"
 subtitle: Ben Williams
-slug: williams
+slug: 12-3-williams
 abstract: "Story from below"
 ---
 
