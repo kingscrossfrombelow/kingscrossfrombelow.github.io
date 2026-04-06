@@ -1,7 +1,7 @@
 ---
 title: "4B. I Worked in the Women's Resettlement Unit"
 subtitle: Mary Swift
-slug: swift
+slug: 4-2-swift
 abstract: "Story from below"
 ---
 
