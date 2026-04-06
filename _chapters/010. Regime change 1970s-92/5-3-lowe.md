@@ -1,7 +1,7 @@
 ---
 title: "5C. Battlebridge Centre, a Cathedral to the Environment: Community Tenure in the Interim 1989-1999"
 subtitle: Julie Lowe
-slug: lowe
+slug: 5-3-lowe
 abstract: "Story from below"
 ---
 
