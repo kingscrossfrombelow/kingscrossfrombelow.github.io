@@ -1,7 +1,7 @@
 ---
 title: "7. Cally Rail Group"
 subtitle: Diana Shelley
-slug: shelley
+slug: 070-shelley
 ---
 
 This page holds additional material, links, and discussion extending from this chapter.

@@ -1,7 +1,7 @@
 ---
 title: "5D. A Space for Us: Why the Somers Town Museum Exists"
 subtitle: Diana Foster
-slug: foster
+slug: 054-foster
 abstract: "Story from below"
 ---
 
