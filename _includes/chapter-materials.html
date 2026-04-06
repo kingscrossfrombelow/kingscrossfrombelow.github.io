@@ -1,5 +1,5 @@
 {# Filter materials from _data/materials.yml by current chapter #}
-{% assign chapter_materials = site.data.materials | where_exp: "item", "item.tags contains page.slug" %}
+{% assign chapter_materials = site.data.materials.materials | where_exp: "item", "item.tags contains page.slug" %}
 
 {% if chapter_materials.size > 0 %}
 ## Materials
