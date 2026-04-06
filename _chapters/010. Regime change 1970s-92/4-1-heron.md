@@ -1,7 +1,8 @@
 ---
-title: "7A. Cally Traders"
-subtitle: Vijya Patel and Rachel Jones
-slug: patel-jones
+title: "4A. Camden Central Community Umbrella"
+subtitle: Fran Heron
+tag: #SRB
+slug: 4-1-heron
 abstract: "Story from below"
 ---
 

@@ -1,8 +1,7 @@
 ---
-title: "4A. Camden Central Community Umbrella"
-subtitle: Fran Heron
-tag: #SRB
-slug: heron
+title: "5G. Culross: A Life in Short Licence"
+subtitle: Jane Swan
+slug: 5-7-swan
 abstract: "Story from below"
 ---
 

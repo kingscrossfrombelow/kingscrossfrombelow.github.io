@@ -1,7 +1,7 @@
 ---
-title: "6A. Regent Quarter"
-subtitle: Jeannie Burnett
-slug: burnett
+title: "12B. Living and Working in King's Cross"
+subtitle: Jasmine King
+slug: 12-2-king
 abstract: "Story from below"
 ---
 

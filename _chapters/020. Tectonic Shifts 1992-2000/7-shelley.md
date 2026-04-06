@@ -1,7 +1,7 @@
 ---
-title: "4. Community Networks and Regeneration Partnerships"
-subtitle: Marian Larragy
-slug: larragy
+title: "7. Cally Rail Group"
+subtitle: Diana Shelley
+slug: 7-shelley
 ---
 
 This page holds additional material, links, and discussion extending from this chapter.

@@ -1,7 +1,7 @@
 ---
-title: "12B. Living and Working in King's Cross"
-subtitle: Jasmine King
-slug: king
+title: "4B. I Worked in the Women's Resettlement Unit"
+subtitle: Mary Swift
+slug: 4-2-swift
 abstract: "Story from below"
 ---
 

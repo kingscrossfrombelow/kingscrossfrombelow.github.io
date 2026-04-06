@@ -1,7 +1,7 @@
 ---
-title: "9. Here We Go Again: Building Consent for a New Scheme"
-subtitle: Michael Edwards
-slug: 090-edwards
+title: "4. Community Networks and Regeneration Partnerships"
+subtitle: Marian Larragy
+slug: 4-larragy
 ---
 
 This page holds additional material, links, and discussion extending from this chapter.

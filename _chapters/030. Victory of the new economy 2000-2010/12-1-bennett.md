@@ -1,7 +1,7 @@
 ---
-title: "5C. Battlebridge Centre, a Cathedral to the Environment: Community Tenure in the Interim 1989-1999"
-subtitle: Julie Lowe
-slug: lowe
+title: "12A. Forming a Neighbourhood Forum for King's Cross"
+subtitle: Zannthie Bennett
+slug: 12-1-bennett
 abstract: "Story from below"
 ---
 

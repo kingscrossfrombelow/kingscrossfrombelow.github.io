@@ -1,7 +1,7 @@
 ---
-title: "12A. Forming a Neighbourhood Forum for King's Cross"
-subtitle: Zannthie Bennett
-slug: bennett
+title: "6B. Malcolm Tucker"
+subtitle: Malcolm Tucker
+slug: 6-2-tucker
 abstract: "Story from below"
 ---
 

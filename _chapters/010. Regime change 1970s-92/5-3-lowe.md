@@ -1,7 +1,7 @@
 ---
-title: "5G. Culross: A Life in Short Licence"
-subtitle: Jane Swan
-slug: swan
+title: "5C. Battlebridge Centre, a Cathedral to the Environment: Community Tenure in the Interim 1989-1999"
+subtitle: Julie Lowe
+slug: 5-3-lowe
 abstract: "Story from below"
 ---
 

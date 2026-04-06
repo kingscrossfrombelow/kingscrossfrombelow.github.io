@@ -1,8 +1,7 @@
 ---
-title: "5B. 5 Cally Road's Place at King's Cross"
-subtitle: Albert Beale
-slug: beale
-abstract: "Story from below"
+title: "10. Public Participation and the Railway Lands"
+subtitle: John Mason
+slug: 10-mason
 ---
 
 This page holds additional material, links, and discussion extending from this chapter.

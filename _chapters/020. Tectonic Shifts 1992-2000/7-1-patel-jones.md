@@ -1,7 +1,8 @@
 ---
-title: "8. The Scala"
-subtitle: Jane Giles
-slug: giles
+title: "7A. Cally Traders"
+subtitle: Vijya Patel and Rachel Jones
+slug: 7-1-patel-jones
+abstract: "Story from below"
 ---
 
 This page holds additional material, links, and discussion extending from this chapter.

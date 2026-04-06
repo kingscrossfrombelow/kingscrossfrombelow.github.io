@@ -1,8 +1,7 @@
 ---
-title: "5D. A Space for Us: Why the Somers Town Museum Exists"
-subtitle: Diana Foster
-slug: foster
-abstract: "Story from below"
+title: "2. The Rise and Fall of London Regeneration"
+subtitle: Michael Edwards
+slug: 2-edwards
 ---
 
 This page holds additional material, links, and discussion extending from this chapter.

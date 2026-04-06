@@ -1,7 +1,7 @@
 ---
-title: "3. Planning Challenges: The Community Alternatives of the 1990s"
-subtitle: Michael Parkes
-slug: parkes
+title: "6. KX Railway Lands Group"
+subtitle: Bill Randal Keynes
+slug: 6-keynes
 ---
 
 This page holds additional material, links, and discussion extending from this chapter.

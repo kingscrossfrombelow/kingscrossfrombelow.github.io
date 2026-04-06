@@ -1,7 +1,7 @@
 ---
-title: "4C. Somers Workshop"
-subtitle: Gwendolyn White
-slug: white
+title: "8A. The Bell"
+subtitle: 
+slug: 8-1-bell
 abstract: "Story from below"
 ---
 
