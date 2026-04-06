@@ -1,7 +1,7 @@
 ---
 title: "2. The Rise and Fall of London Regeneration"
 subtitle: Michael Edwards
-slug: 2-edwards
+slug: 2-0-edwards
 ---
 
 This page holds additional material, links, and discussion extending from this chapter.
