@@ -1,7 +1,7 @@
 ---
 title: "6B. Malcolm Tucker"
 subtitle: Malcolm Tucker
-slug: tucker
+slug: 6-2-tucker
 abstract: "Story from below"
 ---
 
