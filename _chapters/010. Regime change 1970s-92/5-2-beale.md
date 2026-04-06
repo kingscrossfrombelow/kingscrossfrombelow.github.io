@@ -1,7 +1,7 @@
 ---
 title: "5B. 5 Cally Road's Place at King's Cross"
 subtitle: Albert Beale
-slug: beale
+slug: 5-2-beale
 abstract: "Story from below"
 ---
 
