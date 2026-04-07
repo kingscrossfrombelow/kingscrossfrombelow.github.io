@@ -32,7 +32,7 @@ favicon_path: assets/gitbook/images/favicon.ico
 # The book and contents pages need to be made manually.
 # All "url" variables should have a leading slash.
 bookcrumbs:
-  book_url: /book.html
+  book_url: https://uclpress.co.uk/
   contents_url: /contents.html
   book_icon: assets/gitbook/images/apple-touch-icon-precomposed-152.png
 
