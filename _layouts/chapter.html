@@ -15,14 +15,21 @@ layout: default
   <nav aria-label="Breadcrumb" class="breadcrumb markdown-section">
     <ul>
       {% if site.bookcrumbs.book_url %}
-        {% capture book_url %}{{site.baseurl}}{{site.bookcrumbs.book_url}}{% endcapture %}
+        {% assign book_url = site.bookcrumbs.book_url %}
+        {% assign book_is_external = false %}
+        {% assign starts_with = book_url | slice: 0, 4 %}
+        {% if starts_with == "http" %}
+          {% assign book_is_external = true %}
+        {% else %}
+          {% assign book_url = book_url | prepend: site.baseurl %}
+        {% endif %}
           <li>
-            {% unless book_url == page.url %}  
-              <a href="{{ book_url }}">
+            {% unless book_url == page.url and book_is_external == false %}
+              <a href="{{ book_url }}"{% if book_is_external %} target="_blank" rel="noopener noreferrer"{% endif %}>
             {% endunless %}
               {% if site.bookcrumbs.book_icon %}<img class="book-icon" src="{{site.baseurl}}/{{ site.bookcrumbs.book_icon }}">{% endif %}
               Book
-            {% unless book_url == page.url %}
+            {% unless book_url == page.url and book_is_external == false %}
               </a>
             {% endunless %}
           </li>
