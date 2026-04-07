@@ -55,15 +55,20 @@
       {% assign i_part_is_draft = false %}
     {% endif %}
 
-    {% capture _part_index_path %}_chapters/{{ i_part_folder}}/000-index.md{% endcapture %}
-    {% assign i_part_index_chapter = site.chapters | where: "path", _part_index_path | first  %}  
+    {% capture _part_index_path %}_chapters/{{ i_part_folder }}/000-index.md{% endcapture %}
+    {% assign i_part_index_chapter = site.chapters | where: "path", _part_index_path | first %}
 
     {% if i_part_sort_index == "000" or i_part_sort_index == "999" %}
       {% assign i_part_unnumbered = true %}
       {% assign i_part_label = nil %}
     {% else %}
       {% assign i_part_unnumbered = false %}
-      {% assign i_part_label = i_part_folder | split: "-" | shift | join: " " | capitalize %}
+      {% assign _tmp_part_index = site.chapters | where: "path", _part_index_path | first %}
+      {% if _tmp_part_index and _tmp_part_index.title %}
+        {% assign i_part_label = _tmp_part_index.title | split: ": " | shift | join: ": " %}
+      {% else %}
+        {% assign i_part_label = i_part_folder | split: "-" | shift | join: " " | capitalize %}
+      {% endif %}
     {% endif %}
 
   {% endif %}
