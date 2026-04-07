@@ -10,6 +10,8 @@ This page holds additional material, links, and discussion extending from this c
 
 ## Linked Documents
 
+[Interim Uses Initiative: from blight to bloom. Full Report (1993)](https://discovery.ucl.ac.uk/id/eprint/10206111/)
+
 ## Photo Gallery
 
 ## Discussion Thread
