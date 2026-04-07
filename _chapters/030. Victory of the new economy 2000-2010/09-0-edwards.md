@@ -10,6 +10,8 @@ This page holds additional material, links, and discussion extending from this c
 
 ## Linked Documents
 
+[Edwards, M; (2009) King’s Cross: renaissance for whom? In: Punter, J, (ed.) Urban Design, Urban Renaissance and British Cities. (pp. 189-205). Routledge: London.](https://discovery.ucl.ac.uk/id/eprint/14020/)
+
 ## Photo Gallery
 
 ## Discussion Thread
