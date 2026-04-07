@@ -11,7 +11,7 @@ This site supports the book *King's Cross from below*, edited by Michael Edwards
 
 This website is published by Michael Edwards and Jason Katz. It hosts some supporting documentation which is otherwise hard to find and serves as the book's living dimension: a space where encounters with community activism in the King's Cross area can continue.
 
-**[📖Enter the Permanent Repository to view the full Table of Contents](contents.html)**
+**[📖 Enter the Permanent Repository to view the full Table of Contents 📖](contents.html)**
 
 ## Structure
 
