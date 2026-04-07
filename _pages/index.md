@@ -5,7 +5,7 @@ subtitle: website guidelines
 slug: index
 ---
 
-## About This Site
+**About This Site**
 
 This site supports the book *King's Cross from below*, edited by Michael Edwards and Jason Katz. The book is published by UCL Press as a printed volume and as a free PDF. [Order or download the book from UCL Press](https://uclpress.co.uk/).
 
@@ -13,13 +13,13 @@ This website is published by Michael Edwards and Jason Katz. It hosts some suppo
 
 **[📖 Enter the Permanent Repository 📖](contents.html)**
 
-## Structure
+**Structure**
 
 Each chapter or story in the book has its own page here. Click a title to access the chapter's supporting material, related items (photographs, documents, maps, quoted extracts) and links and discussion threads.
 
 Materials are organised in a [separate archive](materials.html) and linked from the chapter-pages that reference them. A single photograph or document can appear in relation to multiple chapters.
 
-## For Contributors
+**For Contributors**
 
 Each page has an "Edit on GitHub" link at the top or bottom. Click to propose changes directly on the relevant chapter page, add your content or links under the appropriate heading. This works from any device with a browser.
 
