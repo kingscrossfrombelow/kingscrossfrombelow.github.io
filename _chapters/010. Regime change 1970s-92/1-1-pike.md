@@ -11,6 +11,8 @@ This page holds additional material, links, and discussion extending from this c
 
 ## Linked Documents
 
+[Alternatives for Kings Cross: report on a pilot social audit (1989)](https://discovery.ucl.ac.uk/id/eprint/10206106/)
+
 ## Photo Gallery
 
 ## Discussion Thread
