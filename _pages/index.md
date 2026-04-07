@@ -7,21 +7,23 @@ slug: index
 
 ## About This Site
 
-This site supports the book *King's Cross from below*, edited by Michael Edwards and Jason Katz. The book is published by UCL Press as a printed volume and as a free PDF. [Order or download the book](https://uclpress.co.uk/)
+This site supports the book *King's Cross from below*, edited by Michael Edwards and Jason Katz. The book is published by UCL Press as a printed volume and as a free PDF. [Order or download the book from UCL Press](https://uclpress.co.uk/).
 
-This website is published by Michael Edwards and Jason Katz. It hosts some supporting documentation which is otherwise hard to find and serves as the book's living dimension: a space where encounters continue to accrete and respond. Each section of the book has a permanent URL for citation. The site will be preserved as part of the British Library's digital archive.
+This website is published by Michael Edwards and Jason Katz. It hosts some supporting documentation which is otherwise hard to find and serves as the book's living dimension: a space where encounters with community activism in the King's Cross area can continue.
+
+**[📖 View the full Table of Contents](contents.html)**
 
 ## Structure
 
-Each chapter or story in the book has its own page here. Click a title to access the chapter's supporting material, related items (photographs, documents, maps, quoted extracts) and links and discussion sections for updates, debates and additions.
+Each chapter or story in the book has its own page here. Click a title to access the chapter's supporting material, related items (photographs, documents, maps, quoted extracts) and links and discussion threads.
 
 Materials are organised in a [separate archive](materials.html) and linked from the chapter-pages that reference them. A single photograph or document can appear in relation to multiple chapters.
 
 ## For Contributors
 
-Each page has an "Edit on GitHub" link at the top or bottom. Click to propose changes directly on the relevant chapter page, add your content or links under the appropriate heading. This works from mobile or computer. The first time you do this you have to join github.com (free) and 'fork' the website kingscrossfrombelow which gives you a copy to work on. When you finish an edit click 'pull request' which alerts the editors to a new contribution needing approval.
+Each page has an "Edit on GitHub" link at the top or bottom. Click to propose changes directly on the relevant chapter page, add your content or links under the appropriate heading. This works from any device with a browser.
 
-To add materials or updates, click "Edit on GitHub" on the relevant chapter page, add your content or links under the appropriate heading, and commit your changes. The site rebuilds automatically. This could now be deleted I hope as the substance is now merged in the previous para.
+To add materials or updates, click "Edit on GitHub" on the relevant chapter page, add your content or links under the appropriate heading, and commit your changes. The site rebuilds automatically.
 
 For questions about contributing, contact the editors.{how shall we handle this? A new email account we both share, not in UCL?)
 
