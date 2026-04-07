@@ -51,9 +51,6 @@
         <a href="{{site.baseurl}}{{ i_chapter.url }}">
           <div class="chapter-label">
             <span class="permanent-repository">Permanent Repository |</span>
-            {% unless i_part_unnumbered %}
-              <span class="chapter-num">{{ i_chapter_num }}.</span>
-            {% endunless %}
             {{ i_chapter.title | escape }}
           </div>
           {% if i_chapter.abstract %}
