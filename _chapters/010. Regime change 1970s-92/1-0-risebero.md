@@ -12,7 +12,7 @@ This page holds additional material, links, and discussion extending from this c
 
 [King's Cross Railway Lands Group Timeline](https://github.com/kingscrossfrombelow/kingscrossfrombelow.github.io/blob/master/_materials/00-KXRLG-timeline.doc)
 
-[Alternatives for Kings Cross: report on a pilot social audit](https://discovery.ucl.ac.uk/id/eprint/10206106/)
+[Alternatives for Kings Cross: report on a pilot social audit (1989)](https://discovery.ucl.ac.uk/id/eprint/10206106/)
 
 ## Photo Gallery
 
