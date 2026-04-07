@@ -21,7 +21,7 @@ Materials are organised in a [separate archive](materials.html) and linked from 
 
 **For Contributors**
 
-Each page has an "Edit on GitHub" link at the top or bottom. Click to propose changes directly on the relevant chapter page, add your content or links under the appropriate heading. This works from any device with a browser.
+Each page has an *"Edit on GitHub"* button at the bottom. Click to propose changes directly on the relevant chapter page, add your content or links under the appropriate heading. This works from any device with a browser.
 
 To add materials or updates, click "Edit on GitHub" on the relevant chapter page, add your content or links under the appropriate heading, and commit your changes. The site rebuilds automatically.
 
