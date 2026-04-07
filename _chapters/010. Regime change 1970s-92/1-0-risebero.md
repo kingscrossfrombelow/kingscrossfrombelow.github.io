@@ -10,6 +10,8 @@ This page holds additional material, links, and discussion extending from this c
 
 {% include chapter-materials.html %}
 
+[King's Cross Railway Lands Group Timeline](https://github.com/kingscrossfrombelow/kingscrossfrombelow.github.io/blob/master/_materials/00-KXRLG-timeline.doc)
+
 ## Photo Gallery
 
 ## Discussion Thread
