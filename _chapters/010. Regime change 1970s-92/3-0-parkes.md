@@ -10,7 +10,7 @@ This page holds additional material, links, and discussion extending from this c
 
 ## Linked Documents
 
-People's Brief: Full Report (1990)[https://discovery.ucl.ac.uk/id/eprint/10206103/]
+[People's Brief: Full Report (1990)](https://discovery.ucl.ac.uk/id/eprint/10206103/)
 
 
 ## Photo Gallery
