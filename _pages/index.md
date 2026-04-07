@@ -35,19 +35,19 @@ iii. Acknowledgements
 
 ## Part 1: Regime Change 1970s-1992
 
-1. [Decline and Fall of Welfare Capitalism, Bill Risebero](https://kingscrossfrombelow.github.io/1-0-risebero.html)  
+1/ [Decline and Fall of Welfare Capitalism, Bill Risebero](https://kingscrossfrombelow.github.io/1-0-risebero.html)  
 1a. [Kings Cross Exchange, David Pike](https://kingscrossfrombelow.github.io/1-1-pike.html)
 
-2. [The Rise and Fall of London Regeneration Consortium, Michael Edwards](https://kingscrossfrombelow.github.io/2-0-edwards.html)
+2/ [The Rise and Fall of London Regeneration Consortium, Michael Edwards](https://kingscrossfrombelow.github.io/2-0-edwards.html)
 
-3. [Planning Challenges: The Community Alternatives of the 1990s, Michael Parkes](https://kingscrossfrombelow.github.io/3-0-parkes.html)
+3/ [Planning Challenges: The Community Alternatives of the 1990s, Michael Parkes](https://kingscrossfrombelow.github.io/3-0-parkes.html)
 
-4. [Community Networks and Regeneration Partnerships, Marian Larragy](https://kingscrossfrombelow.github.io/4-0-larragy.html)  
+4/ [Community Networks and Regeneration Partnerships, Marian Larragy](https://kingscrossfrombelow.github.io/4-0-larragy.html)  
 4a. [Camden Central Community Umbrella, Fran Heron](https://kingscrossfrombelow.github.io/4-1-heron.html)  
 4b. [I Worked in the Women's Resettlement Unit, Mary Swift](https://kingscrossfrombelow.github.io/4-2-swift.html)  
 4c. [Somers Workshop, Gwendolyn White](https://kingscrossfrombelow.github.io/4-3-white.html)
 
-5. [The End of the Line for Stanley Buildings, various authors](https://kingscrossfrombelow.github.io/5-0-stanley-buildings.html)  
+5/ [The End of the Line for Stanley Buildings, various authors](https://kingscrossfrombelow.github.io/5-0-stanley-buildings.html)  
 5a. [The Calthorpe Project, Annika Miller Jones](https://kingscrossfrombelow.github.io/5-1-miller-jones.html)  
 5b. [5 Cally Road's Place at King's Cross, Albert Beale](https://kingscrossfrombelow.github.io/5-2-beale.html)  
 5c. [Battlebridge Centre, Julie Lowe](https://kingscrossfrombelow.github.io/5-3-lowe.html)  
@@ -58,32 +58,32 @@ iii. Acknowledgements
 
 ## Part 2: Tectonic Shifts 1992-2000
 
-6. [Railway threat, blight and survival Randal Keynes](https://kingscrossfrombelow.github.io/6-0-keynes.html)  
+6/ [Railway threat, blight and survival Randal Keynes](https://kingscrossfrombelow.github.io/6-0-keynes.html)  
 6a. [Regent Quarter, Jeannie Burnett](https://kingscrossfrombelow.github.io/6-1-burnett.html)  
 6b. [Industrial Obsolescence and the Railway Lands: A Vignette, Malcolm Tucker](https://kingscrossfrombelow.github.io/6-2-tucker.html)
 
-7. [Cally Rail Group, Diana Shelley](https://kingscrossfrombelow.github.io/7-0-shelley.html)  
+7/ [Cally Rail Group, Diana Shelley](https://kingscrossfrombelow.github.io/7-0-shelley.html)  
 7a. [Cally Traders, Vijya Patel and Rachel Jones](https://kingscrossfrombelow.github.io/7-1-patel-jones.html)
 
-8. [The Scala, Jane Giles](https://kingscrossfrombelow.github.io/8-0-giles.html)  
+8/ [The Scala, Jane Giles](https://kingscrossfrombelow.github.io/8-0-giles.html)  
 8a. [The Bell, Roz Hopkin and Rob Pateman](https://kingscrossfrombelow.github.io/8-1-bell.html) 
 
 ## Part 3: Victory of the New Economy 2000-2010
 
-9. [Here We Go Again: Building Consent for a New Scheme, Michael Edwards](https://kingscrossfrombelow.github.io/9-0-edwards.html)
+9/ [Here We Go Again: Building Consent for a New Scheme, Michael Edwards](https://kingscrossfrombelow.github.io/9-0-edwards.html)
 
-10. [Public Participation and the Railway Lands, John Mason](https://kingscrossfrombelow.github.io/10-0-mason.html)
+10/ [Public Participation and the Railway Lands, John Mason](https://kingscrossfrombelow.github.io/10-0-mason.html)
 
-11. [Community in the Final Crunch, Richard Lee](https://kingscrossfrombelow.github.io/11-0-lee.html)
+11/ [Community in the Final Crunch, Richard Lee](https://kingscrossfrombelow.github.io/11-0-lee.html)
 
-12. [The King's Cross Development Forum 2002-2023, Robert Milne](https://kingscrossfrombelow.github.io/12-0-milne.html)  
+12/ [The King's Cross Development Forum 2002-2023, Robert Milne](https://kingscrossfrombelow.github.io/12-0-milne.html)  
 12a. [Forming a Neighbourhood Forum for King's Cross, Zannthie Bennett](https://kingscrossfrombelow.github.io/12-1-bennett.html)  
 12b. [Living and Working in King's Cross, Jasmine King](https://kingscrossfrombelow.github.io/king.12-2-html)  
 12c. [Living in Saxon Court, Ben Williams](https://kingscrossfrombelow.github.io/12-3-williams.html)
 
 ## Back Matter
 
-13. Contributors' Dialogue  
-14. Editors' Dialogue  
-15. Afterword, Esther Leslie (London)  
-16. Afterword, Richard Wolff (Zürich)
+13/ Contributors' Dialogue  
+14/ Editors' Dialogue  
+15/ Afterword, Esther Leslie (London)  
+16/ Afterword, Richard Wolff (Zürich)
