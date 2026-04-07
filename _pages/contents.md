@@ -10,7 +10,7 @@ i. Introduction
 ii. Contributor Biographies  
 iii. Acknowledgements
 
-## Part 1: Regime Change 1970s–1992
+## [Part 1: Regime Change 1970s–1992](part1.html)
 
 1/ [Decline and Fall of Welfare Capitalism, Bill Risebero](1-0-risebero.html)  
 1a. [Kings Cross Exchange, David Pike](1-1-pike.html)
@@ -33,7 +33,7 @@ iii. Acknowledgements
 5f. [Running the Railway Lands Group, Jackie Power](5-6-power.html)  
 5g. [Culross: A Life in Short Licence, Jane Swan](5-7-swan.html)
 
-## Part 2: Tectonic Shifts 1992–2000
+## [Part 2: Tectonic Shifts 1992–2000](part2.html)
 
 6/ [Railway threat, blight and survival, Randal Keynes](6-0-keynes.html)  
 6a. [Regent Quarter, Jeannie Burnett](6-1-burnett.html)  
@@ -45,7 +45,7 @@ iii. Acknowledgements
 8/ [The Scala, Jane Giles](8-0-giles.html)  
 8a. [The Bell, Roz Hopkin and Rob Pateman](8-1-bell.html)
 
-## Part 3: Victory of the New Economy 2000–2010
+## [Part 3: Victory of the New Economy 2000–2010](part3.html)
 
 9/ [Here We Go Again: Building Consent for a New Scheme, Michael Edwards](9-0-edwards.html)
 
