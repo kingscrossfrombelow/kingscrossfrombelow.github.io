@@ -53,6 +53,8 @@ sidebar_nav_top:
   url: part3.html
 - label: Contributors
   url: contributors.html
+- label: "Back Matter"
+  url: backmatter.html
 
 # Links shown below the TOC in the sidebar
 # All "url" variables should have a leading slash.
