@@ -4,7 +4,7 @@ title: Contents
 slug: contents
 ---
 
-## Front Matter
+## [Front Matter](frontmatter.html)
 
 i. [Introduction](introduction.html)  
 ii. [Contributor Biographies](contributors.html)  
