@@ -60,7 +60,7 @@ iii. [Acknowledgements](acknowledgements.html)
 
 ## Back Matter
 
-13/ Contributors' Dialogue  
-14/ Editors' Dialogue  
-15/ Afterword, Esther Leslie (London)  
-16/ Afterword, Richard Wolff (Zürich)
+13/ [Contributors' Dialogue](13-0-contributors-dialogue.html)  
+14/ [Editors' Dialogue](14-0-editors-dialogue.html)  
+15/ [Afterword, Esther Leslie (London)](15-0-leslie.html)  
+16/ [Afterword, Richard Wolff (Zürich)](16-0-wolff.html)
