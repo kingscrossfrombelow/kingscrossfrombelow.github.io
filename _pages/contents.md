@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contents
+title: Permanent Repository
 slug: contents
 ---
 
