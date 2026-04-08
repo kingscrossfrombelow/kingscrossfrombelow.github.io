@@ -6,9 +6,9 @@ slug: contents
 
 ## Front Matter
 
-i. Introduction  
-ii. Contributor Biographies  
-iii. Acknowledgements
+i. [Introduction](introduction.html)  
+ii. [Contributor Biographies](contributors.html)  
+iii. [Acknowledgements](acknowledgements.html)
 
 ## [Part 1: Regime Change 1970s–1992](part1.html)
 
