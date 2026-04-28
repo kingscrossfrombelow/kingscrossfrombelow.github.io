@@ -17,7 +17,7 @@ This website is published by Michael Edwards and Jason Katz. It hosts some suppo
 
 Each chapter or story in the book has its own page here. Click a title to access the chapter's supporting material, related items (photographs, documents, maps, quoted extracts) and links and discussion threads.
 
-Materials are organised in a [separate archive](materials.html) and linked from the chapter-pages that reference them. A single photograph or document can appear in relation to multiple chapters.
+Materials are organised in a separate archive called the [Materials Folder](materials.html) and linked from the chapter-pages that reference them. A single photograph or document can appear in relation to multiple chapters.
 
 **For Contributors**
 
