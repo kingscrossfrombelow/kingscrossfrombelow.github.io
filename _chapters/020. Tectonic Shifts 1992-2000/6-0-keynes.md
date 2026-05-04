@@ -1,5 +1,5 @@
 ---
-title: "6. KX Railway Lands Group"
+title: "6. Railway threat, blight and survival"
 subtitle: Bill Randal Keynes
 slug: 6-0-keynes
 ---
