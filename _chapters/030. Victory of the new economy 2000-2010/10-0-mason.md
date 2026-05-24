@@ -9,6 +9,7 @@ This page holds additional material, links, and discussion extending from this c
 {% include chapter-materials.html %}
 
 ## Linked Documents
+The challenge posed to readers at the end of chapter 10 refers to these first 3 documents: a spreadsheet and two files of text.
 
 [00-brian-woodrow-cnj-articles-full.pdf](https://github.com/kingscrossfrombelow/kingscrossfrombelow.github.io/blob/master/_materials/00-brian-woodrow-cnj-articles-full.pdf)
 
