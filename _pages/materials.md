@@ -44,7 +44,7 @@ Here's the complete list of files from the `_materials` folder as hyperlinks:
 34. [20120100-LBC-neighbourhood-area-application.pdf](https://github.com/kingscrossfrombelow/kingscrossfrombelow.github.io/blob/master/_materials/20120100-LBC-neighbourhood-area-application.pdf)
 35. [20120100-LBC-neighbourhood-forum-application-for-designation.pdf](https://github.com/kingscrossfrombelow/kingscrossfrombelow.github.io/blob/master/_materials/20120100-LBC-neighbourhood-forum-application-for-designation.pdf)
 36. [20150204-UCL-bishop-omega-seminar-slides.pdf](https://github.com/kingscrossfrombelow/kingscrossfrombelow.github.io/blob/master/_materials/20150204-UCL-bishop-omega-seminar-slides.pdf)
-37. [202600000-Mason-summary-A.doc](https://github.com/kingscrossfrombelow/kingscrossfrombelow.github.io/blob/master/_materials/202600000-Mason-summary-A.doc)
+37. [20260000-Mason-summary-A.doc](https://github.com/kingscrossfrombelow/kingscrossfrombelow.github.io/blob/master/_materials/202600000-Mason-summary-A.doc)
 38. [20260000-Mason-summary-B.docx](https://github.com/kingscrossfrombelow/kingscrossfrombelow.github.io/blob/master/_materials/20260000-Mason-summary-B.docx)
 39. [20260000-Mason-summary-spreadsheet.xls](https://github.com/kingscrossfrombelow/kingscrossfrombelow.github.io/blob/master/_materials/20260000-Mason-summary-spreadsheet.xls)
 40. [nd-Adjudication-Panel-report-woodrow.pdf](https://github.com/kingscrossfrombelow/kingscrossfrombelow.github.io/blob/master/_materials/nd-Adjudication-Panel-report-woodrow.pdf)
