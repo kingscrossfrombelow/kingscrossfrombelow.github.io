@@ -45,5 +45,6 @@ Here's the complete list of files from the `_materials` folder as hyperlinks:
 35. [20120100-LBC-neighbourhood-forum-application-for-designation.pdf](https://github.com/kingscrossfrombelow/kingscrossfrombelow.github.io/blob/master/_materials/20120100-LBC-neighbourhood-forum-application-for-designation.pdf)
 36. [20150204-UCL-bishop-omega-seminar-slides.pdf](https://github.com/kingscrossfrombelow/kingscrossfrombelow.github.io/blob/master/_materials/20150204-UCL-bishop-omega-seminar-slides.pdf)
 37. [nd-Adjudication-Panel-report-woodrow.pdf](https://github.com/kingscrossfrombelow/kingscrossfrombelow.github.io/blob/master/_materials/nd-Adjudication-Panel-report-woodrow.pdf)
+38. [_materials/202600000-Mason-summary-A.doc](https://github.com/kingscrossfrombelow/kingscrossfrombelow.github.io/blob/master/_materials/202600000-Mason-summary-A.doc)
 
 Post-publication task: I imagine that there is a way to add each of the materials which are linked to each individual chapter and route it here. Something like Materails(1)+Materials(2)+Materials(n) and then alphabetised. 
