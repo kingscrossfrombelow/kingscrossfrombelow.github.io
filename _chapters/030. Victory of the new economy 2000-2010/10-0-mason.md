@@ -11,6 +11,11 @@ This page holds additional material, links, and discussion extending from this c
 ## Linked Documents
 The challenge posed to readers at the end of chapter 10 refers to these first 3 documents: a spreadsheet and two files of text.
 
+[202600000-Mason-summary-A.doc](https://github.com/kingscrossfrombelow/kingscrossfrombelow.github.io/blob/master/_materials/202600000-Mason-summary-A.doc)
+[20260000-Mason-summary-B.docx](https://github.com/kingscrossfrombelow/kingscrossfrombelow.github.io/blob/master/_materials/20260000-Mason-summary-B.docx)
+[20260000-Mason-summary-spreadsheet.xls](https://github.com/kingscrossfrombelow/kingscrossfrombelow.github.io/blob/master/_materials/20260000-Mason-summary-spreadsheet.xls)
+
+- - - - - 
 [00-brian-woodrow-cnj-articles-full.pdf](https://github.com/kingscrossfrombelow/kingscrossfrombelow.github.io/blob/master/_materials/00-brian-woodrow-cnj-articles-full.pdf)
 
 [00-brian-woodrow-tributes.pdf](https://github.com/kingscrossfrombelow/kingscrossfrombelow.github.io/blob/master/_materials/00-brian-woodrow-tributes.pdf)
