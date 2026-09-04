@@ -29,11 +29,10 @@ Edit `_config.yml` to customize:
 Unlike a traditional linear book, this platform supports:
 - **Chapter-based organization** with automatic table of contents and breadcrumb navigation
 - **Interconnected materials** (PDFs, videos, images) linked to multiple chapters
-- **Flexible structuring** – chapters can be reordered, materials can apply to many sections
+- **networked relations** – Materials can be linked to many pages
 - **Living revision** – update content at any time; the sitemap automatically reflects changes
 - **Multimedia integration** – embed videos, images, and documents alongside text
 
-Think of this as a **curated knowledge graph** that stays organized and navigable even as your content grows.
 
 ---
 
