@@ -4,9 +4,7 @@ title: Materials Archive
 slug: materials
 ---
 
-Index of primary sources, photographs, maps, and documents referenced throughout the book.
-
-Here's the complete list of files from the `_materials` folder as hyperlinks:
+Index of primary sources, photographs, maps, and documents.
 
 1. [00-KXRLG-timeline.doc](https://github.com/kingscrossfrombelow/kingscrossfrombelow.github.io/blob/master/_materials/00-KXRLG-timeline.doc)
 2. [00-Various-citizens-assemblies-juries-panels.pdf](https://github.com/kingscrossfrombelow/kingscrossfrombelow.github.io/blob/master/_materials/00-Various-citizens-assemblies-juries-panels.pdf)
